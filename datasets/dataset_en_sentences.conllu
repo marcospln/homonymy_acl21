@@ -1,0 +1,1934 @@
+# newdoc
+# newpar
+# sent_id = 1
+# sent_csv = We're going to the airport by coach.
+# text = We're going to the airport by coach.
+1	We're	We're	ADV	RB	_	2	advmod	_	_
+2	going	go	VERB	VBG	VerbForm=Ger	0	root	_	_
+3	to	to	ADP	TO	_	5	case	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	airport	airport	NOUN	NN	Number=Sing	2	obl	_	_
+6	by	by	ADP	IN	_	7	case	_	_
+7	coach	coach	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 2
+# sent_csv = We're going to the airport by bus.
+# text = We're going to the airport by bus.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
+4	to	to	ADP	TO	_	6	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	airport	airport	NOUN	NN	Number=Sing	3	obl	_	_
+7	by	by	ADP	IN	_	8	case	_	_
+8	bus	bus	NOUN	NN	Number=Sing	3	obl	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 3
+# sent_csv = We're going to the airport by bicycle.
+# text = We're going to the airport by bicycle.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
+4	to	to	ADP	TO	_	6	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	airport	airport	NOUN	NN	Number=Sing	3	obl	_	_
+7	by	by	ADP	IN	_	8	case	_	_
+8	bicycle	bicycle	NOUN	NN	Number=Sing	3	obl	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 4
+# sent_csv = As we headed back to London, the coach was badly delayed by roadworks.
+# text = As we headed back to London, the coach was badly delayed by roadworks.
+1	As	as	SCONJ	IN	_	3	mark	_	_
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+3	headed	head	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	advcl	_	_
+4	back	back	ADV	RB	_	3	compound:prt	_	_
+5	to	to	ADP	TO	_	6	case	_	_
+6	London	London	PROPN	NNP	Number=Sing	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	3	punct	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	coach	coach	NOUN	NN	Number=Sing	12	nsubj:pass	_	_
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
+11	badly	badly	ADV	RB	_	12	advmod	_	_
+12	delayed	delay	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+13	by	by	ADP	IN	_	14	case	_	_
+14	roadworks	roadwork	NOUN	NNS	Number=Plur	12	obl	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	12	punct	_	SpacesAfter=\n
+
+# sent_id = 5
+# sent_csv = They had to travel everywhere by bus.
+# text = They had to travel everywhere by bus.
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	to	to	PART	TO	_	4	mark	_	_
+4	travel	travel	VERB	VB	VerbForm=Inf	2	xcomp	_	_
+5	everywhere	everywhere	ADV	RB	_	4	advmod	_	_
+6	by	by	ADP	IN	_	7	case	_	_
+7	bus	bus	NOUN	NN	Number=Sing	4	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 6
+# sent_csv = That man was appointed as the new coach.
+# text = That man was appointed as the new coach.
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	_
+2	man	man	NOUN	NN	Number=Sing	4	nsubj:pass	_	_
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+4	appointed	appoint	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+5	as	as	ADP	IN	_	8	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+7	new	new	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	coach	coach	NOUN	NN	Number=Sing	4	obl	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 7
+# sent_csv = That man was appointed as the new trainer.
+# text = That man was appointed as the new trainer.
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	_
+2	man	man	NOUN	NN	Number=Sing	4	nsubj:pass	_	_
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+4	appointed	appoint	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+5	as	as	ADP	IN	_	8	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+7	new	new	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	trainer	trainer	NOUN	NN	Number=Sing	4	obl	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 8
+# sent_csv = That man was appointed as the new president.
+# text = That man was appointed as the new president.
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	_
+2	man	man	NOUN	NN	Number=Sing	4	nsubj:pass	_	_
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+4	appointed	appoint	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+5	as	as	ADP	IN	_	8	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+7	new	new	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	president	president	NOUN	NN	Number=Sing	4	obl	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 9
+# sent_csv = She has recently joined the amateur team as coach.
+# text = She has recently joined the amateur team as coach.
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	recently	recently	ADV	RB	_	4	advmod	_	_
+4	joined	join	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+6	amateur	amateur	NOUN	NN	Number=Sing	7	compound	_	_
+7	team	team	NOUN	NN	Number=Sing	4	obj	_	_
+8	as	as	ADP	IN	_	9	case	_	_
+9	coach	coach	NOUN	NN	Number=Sing	4	obl	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 10
+# sent_csv = They need a new trainer for the young athletes.
+# text = They need a new trainer for the young athletes.
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_
+4	new	new	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	trainer	trainer	NOUN	NN	Number=Sing	2	obj	_	_
+6	for	for	ADP	IN	_	9	case	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+8	young	young	ADJ	JJ	Degree=Pos	9	amod	_	_
+9	athletes	athlete	NOUN	NNS	Number=Plur	5	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 11
+# sent_csv = I used to work in the local branch of a large bank.
+# text = I used to work in the local branch of a large bank.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	to	to	PART	TO	_	4	mark	_	_
+4	work	work	VERB	VB	VerbForm=Inf	2	xcomp	_	_
+5	in	in	ADP	IN	_	8	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+7	local	local	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	branch	branch	NOUN	NN	Number=Sing	4	obl	_	_
+9	of	of	ADP	IN	_	12	case	_	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	_
+11	large	large	ADJ	JJ	Degree=Pos	12	amod	_	_
+12	bank	bank	NOUN	NN	Number=Sing	8	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 12
+# sent_csv = I used to work in the local branch of a large financial institution.
+# text = I used to work in the local branch of a large financial institution.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	to	to	PART	TO	_	4	mark	_	_
+4	work	work	VERB	VB	VerbForm=Inf	2	xcomp	_	_
+5	in	in	ADP	IN	_	8	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+7	local	local	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	branch	branch	NOUN	NN	Number=Sing	4	obl	_	_
+9	of	of	ADP	IN	_	13	case	_	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	_
+11	large	large	ADJ	JJ	Degree=Pos	13	amod	_	_
+12	financial	financial	ADJ	JJ	Degree=Pos	13	amod	_	_
+13	institution	institution	NOUN	NN	Number=Sing	8	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 13
+# sent_csv = I used to work in the local branch of a large college.
+# text = I used to work in the local branch of a large college.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	to	to	PART	TO	_	4	mark	_	_
+4	work	work	VERB	VB	VerbForm=Inf	2	xcomp	_	_
+5	in	in	ADP	IN	_	8	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+7	local	local	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	branch	branch	NOUN	NN	Number=Sing	4	obl	_	_
+9	of	of	ADP	IN	_	12	case	_	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	_
+11	large	large	ADJ	JJ	Degree=Pos	12	amod	_	_
+12	college	college	NOUN	NN	Number=Sing	8	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 14
+# sent_csv = Which bank offers you the service that best suits your financial needs?
+# text = Which bank offers you the service that best suits your financial needs?
+1	Which	which	DET	WDT	PronType=Int	2	det	_	_
+2	bank	bank	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	offers	offer	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	iobj	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	service	service	NOUN	NN	Number=Sing	3	obj	_	_
+7	that	that	SCONJ	IN	_	12	mark	_	_
+8	best	good	ADJ	JJS	Degree=Sup	9	amod	_	_
+9	suits	suit	NOUN	NNS	Number=Plur	12	nsubj	_	_
+10	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	_
+11	financial	financial	ADJ	JJ	Degree=Pos	12	amod	_	_
+12	needs	need	NOUN	NNS	Number=Plur	6	ccomp	_	SpaceAfter=No
+13	?	?	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 15
+# sent_csv = How do credit unions differ from other financial institutions?
+# text = How do credit unions differ from other financial institutions?
+1	How	how	SCONJ	WRB	PronType=Int	3	mark	_	_
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	credit	credit	VERB	VBN	Tense=Past|VerbForm=Part	5	advcl	_	_
+4	unions	union	NOUN	NNS	Number=Plur	3	obj	_	_
+5	differ	differ	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	from	from	ADP	IN	_	9	case	_	_
+7	other	other	ADJ	JJ	Degree=Pos	9	amod	_	_
+8	financial	financial	ADJ	JJ	Degree=Pos	9	amod	_	_
+9	institutions	institution	NOUN	NNS	Number=Plur	5	obl	_	SpaceAfter=No
+10	?	?	PUNCT	.	_	5	punct	_	SpacesAfter=\n
+
+# sent_id = 16
+# sent_csv = When we reached the opposite bank, the boat was sinking fast.
+# text = When we reached the opposite bank, the boat was sinking fast.
+1	When	when	SCONJ	WRB	PronType=Int	3	mark	_	_
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+3	reached	reach	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+5	opposite	opposite	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	bank	bank	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	3	punct	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	boat	boat	NOUN	NN	Number=Sing	11	nsubj	_	_
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
+11	sinking	sink	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
+12	fast	fast	ADV	RB	Degree=Pos	11	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	11	punct	_	SpacesAfter=\n
+
+# sent_id = 17
+# sent_csv = When we reached the opposite border, the boat was sinking fast.
+# text = When we reached the opposite border, the boat was sinking fast.
+1	When	when	SCONJ	WRB	PronType=Int	3	mark	_	_
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+3	reached	reach	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+5	opposite	opposite	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	border	border	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	3	punct	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	boat	boat	NOUN	NN	Number=Sing	11	nsubj	_	_
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
+11	sinking	sink	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
+12	fast	fast	ADV	RB	Degree=Pos	11	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	11	punct	_	SpacesAfter=\n
+
+# sent_id = 18
+# sent_csv = When we reached the opposite wall, the boat was sinking fast.
+# text = When we reached the opposite wall, the boat was sinking fast.
+1	When	when	SCONJ	WRB	PronType=Int	3	mark	_	_
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+3	reached	reach	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+5	opposite	opposite	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	wall	wall	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	3	punct	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	boat	boat	NOUN	NN	Number=Sing	11	nsubj	_	_
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
+11	sinking	sink	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
+12	fast	fast	ADV	RB	Degree=Pos	11	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	11	punct	_	SpacesAfter=\n
+
+# sent_id = 19
+# sent_csv = The children pelted down the bank, over the bridge and along the path.
+# text = The children pelted down the bank, over the bridge and along the path.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	children	child	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	pelted	pelt	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	down	down	ADP	RP	_	3	compound:prt	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	bank	bank	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	10	punct	_	_
+8	over	over	ADP	IN	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	bridge	bridge	NOUN	NN	Number=Sing	3	obl	_	_
+11	and	and	CCONJ	CC	_	14	cc	_	_
+12	along	along	ADP	IN	_	14	case	_	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	_
+14	path	path	NOUN	NN	Number=Sing	10	conj	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 20
+# sent_csv = Many elephants live on the shores of Lake Kariba.
+# text = Many elephants live on the shores of Lake Kariba.
+1	Many	Many	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	elephants	elephant	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	live	live	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	on	on	ADP	IN	_	6	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	shores	shore	NOUN	NNS	Number=Plur	3	obl	_	_
+7	of	of	ADP	IN	_	8	case	_	_
+8	Lake	Lake	PROPN	NNP	Number=Sing	6	nmod	_	_
+9	Kariba	Kariba	PROPN	NNP	Number=Sing	8	flat	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 21
+# sent_csv = Bats are more manoeuvrable than birds.
+# text = Bats are more manoeuvrable than birds.
+1	Bats	bat	NOUN	NNS	Number=Plur	4	nsubj	_	_
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	more	more	ADV	RBR	_	4	advmod	_	_
+4	manoeuvrable	manoeuvrable	ADJ	JJ	Degree=Pos	0	root	_	_
+5	than	than	ADP	IN	_	6	case	_	_
+6	birds	bird	NOUN	NNS	Number=Plur	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 22
+# sent_csv = Chiropterans are more manoeuvrable than birds.
+# text = Chiropterans are more manoeuvrable than birds.
+1	Chiropterans	Chiropteran	NOUN	NNS	Number=Plur	4	nsubj	_	_
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	more	more	ADV	RBR	_	4	advmod	_	_
+4	manoeuvrable	manoeuvrable	ADJ	JJ	Degree=Pos	0	root	_	_
+5	than	than	ADP	IN	_	6	case	_	_
+6	birds	bird	NOUN	NNS	Number=Plur	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 23
+# sent_csv = Dolphins are more manoeuvrable than birds.
+# text = Dolphins are more manoeuvrable than birds.
+1	Dolphins	Dolphin	NOUN	NNS	Number=Plur	4	nsubj	_	_
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	more	more	ADV	RBR	_	4	advmod	_	_
+4	manoeuvrable	manoeuvrable	ADJ	JJ	Degree=Pos	0	root	_	_
+5	than	than	ADP	IN	_	6	case	_	_
+6	birds	bird	NOUN	NNS	Number=Plur	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 24
+# sent_csv = Due to their physiology, bats are one type of animal that acts as a natural reservoir of many pathogens.
+# text = Due to their physiology, bats are one type of animal that acts as a natural reservoir of many pathogens.
+1	Due	due	ADJ	JJ	Degree=Pos	6	amod	_	_
+2	to	to	ADP	TO	_	4	case	_	_
+3	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
+4	physiology	physiology	NOUN	NN	Number=Sing	1	obl	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	1	punct	_	_
+6	bats	bat	NOUN	NNS	Number=Plur	8	nsubj	_	_
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	one	one	NUM	CD	NumType=Card	0	root	_	_
+9	type	type	NOUN	NN	Number=Sing	8	obj	_	_
+10	of	of	ADP	IN	_	11	case	_	_
+11	animal	animal	NOUN	NN	Number=Sing	9	nmod	_	_
+12	that	that	PRON	WDT	PronType=Rel	13	nsubj	_	_
+13	acts	act	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+14	as	as	ADP	IN	_	17	case	_	_
+15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	_
+16	natural	natural	ADJ	JJ	Degree=Pos	17	amod	_	_
+17	reservoir	reservoir	NOUN	NN	Number=Sing	13	obl	_	_
+18	of	of	ADP	IN	_	20	case	_	_
+19	many	many	ADJ	JJ	Degree=Pos	20	amod	_	_
+20	pathogens	pathogen	NOUN	NNS	Number=Plur	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	.	_	8	punct	_	SpacesAfter=\n
+
+# sent_id = 25
+# sent_csv = Any mammal, of the order Chiroptera, that has forelimbs modified to form wings.
+# text = Any mammal, of the order Chiroptera, that has forelimbs modified to form wings.
+1	Any	any	DET	DT	_	2	det	_	_
+2	mammal	mammal	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	6	punct	_	_
+4	of	of	ADP	IN	_	6	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	order	order	NOUN	NN	Number=Sing	2	nmod	_	_
+7	Chiroptera	Chiroptera	PROPN	NNP	Number=Sing	6	flat	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	10	punct	_	_
+9	that	that	PRON	WDT	PronType=Rel	10	nsubj	_	_
+10	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+11	forelimbs	forelimb	NOUN	NNS	Number=Plur	10	obj	_	_
+12	modified	modify	VERB	VBN	Tense=Past|VerbForm=Part	11	acl	_	_
+13	to	to	PART	TO	_	14	mark	_	_
+14	form	form	VERB	VB	VerbForm=Inf	12	xcomp	_	_
+15	wings	wing	NOUN	NNS	Number=Plur	14	obj	_	SpaceAfter=No
+16	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 26
+# sent_csv = She showed me how to hold the bat.
+# text = She showed me how to hold the bat.
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	showed	show	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+4	how	how	SCONJ	WRB	PronType=Int	6	mark	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	hold	hold	VERB	VB	VerbForm=Inf	2	advcl	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	bat	bat	NOUN	NN	Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 27
+# sent_csv = She showed me how to hold the stick.
+# text = She showed me how to hold the stick.
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	showed	show	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+4	how	how	SCONJ	WRB	PronType=Int	6	mark	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	hold	hold	VERB	VB	VerbForm=Inf	2	advcl	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	stick	stick	NOUN	NN	Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 28
+# sent_csv = She showed me how to hold the gun.
+# text = She showed me how to hold the gun.
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	showed	show	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+4	how	how	SCONJ	WRB	PronType=Int	6	mark	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	hold	hold	VERB	VB	VerbForm=Inf	2	advcl	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	gun	gun	NOUN	NN	Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 29
+# sent_csv = I accidentally bashed him with my bat.
+# text = I accidentally bashed him with my bat.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	accidentally	accidentally	ADV	RB	_	3	advmod	_	_
+3	bashed	bash	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	with	with	ADP	IN	_	7	case	_	_
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
+7	bat	bat	NOUN	NN	Number=Sing	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 30
+# sent_csv = Unlike a baseball stick a cricket one has an edge which is significantly sharper.
+# text = Unlike a baseball stick a cricket one has an edge which is significantly sharper.
+1	Unlike	unlike	ADP	IN	_	4	case	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_
+3	baseball	baseball	NOUN	NN	Number=Sing	4	compound	_	_
+4	stick	stick	NOUN	NN	Number=Sing	8	obl	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+6	cricket	cricket	NOUN	NN	Number=Sing	7	compound	_	_
+7	one	one	NUM	CD	NumType=Card	8	nsubj	_	_
+8	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	an	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	_
+10	edge	edge	NOUN	NN	Number=Sing	8	obj	_	_
+11	which	which	PRON	WDT	PronType=Rel	14	nsubj	_	_
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	significantly	significantly	ADV	RB	_	14	advmod	_	_
+14	sharper	sharper	ADJ	JJ	Degree=Pos	10	acl:relcl	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	8	punct	_	SpacesAfter=\n
+
+# sent_id = 31
+# sent_csv = They were probably the most famous band in the world.
+# text = They were probably the most famous band in the world.
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	cop	_	_
+3	probably	probably	ADV	RB	_	7	advmod	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+5	most	most	ADV	RBS	_	6	advmod	_	_
+6	famous	famous	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	band	band	NOUN	NN	Number=Sing	0	root	_	_
+8	in	in	ADP	IN	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	world	world	NOUN	NN	Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	7	punct	_	SpacesAfter=\n
+
+# sent_id = 32
+# sent_csv = They were probably the most famous ensemble in the world.
+# text = They were probably the most famous ensemble in the world.
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	cop	_	_
+3	probably	probably	ADV	RB	_	7	advmod	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+5	most	most	ADV	RBS	_	6	advmod	_	_
+6	famous	famous	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	ensemble	ensemble	NOUN	NN	Number=Sing	0	root	_	_
+8	in	in	ADP	IN	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	world	world	NOUN	NN	Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	7	punct	_	SpacesAfter=\n
+
+# sent_id = 33
+# sent_csv = They were probably the most famous engineers in the world.
+# text = They were probably the most famous engineers in the world.
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	cop	_	_
+3	probably	probably	ADV	RB	_	7	advmod	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+5	most	most	ADV	RBS	_	6	advmod	_	_
+6	famous	famous	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	engineers	engineer	NOUN	NNS	Number=Plur	0	root	_	_
+8	in	in	ADP	IN	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	world	world	NOUN	NN	Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	7	punct	_	SpacesAfter=\n
+
+# sent_id = 34
+# sent_csv = This week the band did the last gig of their tour.
+# text = This week the band did the last gig of their tour.
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	_
+2	week	week	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	band	band	NOUN	NN	Number=Sing	8	nsubj	_	_
+5	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	cop	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+7	last	last	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	gig	gig	NOUN	NN	Number=Sing	2	ccomp	_	_
+9	of	of	ADP	IN	_	11	case	_	_
+10	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
+11	tour	tour	NOUN	NN	Number=Sing	8	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 35
+# sent_csv = He has also formed an exciting ensemble with several other musicians.
+# text = He has also formed an exciting ensemble with several other musicians.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	also	also	ADV	RB	_	4	advmod	_	_
+4	formed	form	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+5	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	_
+6	exciting	excite	VERB	VBG	VerbForm=Ger	7	amod	_	_
+7	ensemble	ensemble	NOUN	NN	Number=Sing	4	obj	_	_
+8	with	with	ADP	IN	_	11	case	_	_
+9	several	several	ADJ	JJ	Degree=Pos	11	amod	_	_
+10	other	other	ADJ	JJ	Degree=Pos	11	amod	_	_
+11	musicians	musician	NOUN	NNS	Number=Plur	4	obl	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 36
+# sent_csv = A band of light glowed in the space between floor and door.
+# text = A band of light glowed in the space between floor and door.
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	_
+2	band	band	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	light	light	NOUN	NN	Number=Sing	2	nmod	_	_
+5	glowed	glow	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+6	in	in	ADP	IN	_	8	case	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	space	space	NOUN	NN	Number=Sing	5	obl	_	_
+9	between	between	ADP	IN	_	10	case	_	_
+10	floor	floor	NOUN	NN	Number=Sing	8	nmod	_	_
+11	and	and	CCONJ	CC	_	12	cc	_	_
+12	door	door	NOUN	NN	Number=Sing	10	conj	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	5	punct	_	SpacesAfter=\n
+
+# sent_id = 37
+# sent_csv = A strip of light glowed in the space between floor and door.
+# text = A strip of light glowed in the space between floor and door.
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	_
+2	strip	strip	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	light	light	NOUN	NN	Number=Sing	2	nmod	_	_
+5	glowed	glow	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+6	in	in	ADP	IN	_	8	case	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	space	space	NOUN	NN	Number=Sing	5	obl	_	_
+9	between	between	ADP	IN	_	10	case	_	_
+10	floor	floor	NOUN	NN	Number=Sing	8	nmod	_	_
+11	and	and	CCONJ	CC	_	12	cc	_	_
+12	door	door	NOUN	NN	Number=Sing	10	conj	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	5	punct	_	SpacesAfter=\n
+
+# sent_id = 38
+# sent_csv = A circle of light glowed in the space between floor and door.
+# text = A circle of light glowed in the space between floor and door.
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	_
+2	circle	circle	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	light	light	NOUN	NN	Number=Sing	2	nmod	_	_
+5	glowed	glow	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+6	in	in	ADP	IN	_	8	case	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	space	space	NOUN	NN	Number=Sing	5	obl	_	_
+9	between	between	ADP	IN	_	10	case	_	_
+10	floor	floor	NOUN	NN	Number=Sing	8	nmod	_	_
+11	and	and	CCONJ	CC	_	12	cc	_	_
+12	door	door	NOUN	NN	Number=Sing	10	conj	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	5	punct	_	SpacesAfter=\n
+
+# sent_id = 39
+# sent_csv = A narrow band of grass separated the greenhouse from the vegetable garden.
+# text = A narrow band of grass separated the greenhouse from the vegetable garden.
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+2	narrow	narrow	ADJ	JJ	Degree=Pos	3	amod	_	_
+3	band	band	NOUN	NN	Number=Sing	6	nsubj	_	_
+4	of	of	ADP	IN	_	5	case	_	_
+5	grass	grass	NOUN	NN	Number=Sing	3	nmod	_	_
+6	separated	separate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	greenhouse	greenhouse	NOUN	NN	Number=Sing	6	obj	_	_
+9	from	from	ADP	IN	_	12	case	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	_
+11	vegetable	vegetable	NOUN	NN	Number=Sing	12	compound	_	_
+12	garden	garden	NOUN	NN	Number=Sing	6	obl	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	6	punct	_	SpacesAfter=\n
+
+# sent_id = 40
+# sent_csv = Serve dish with strips of fresh raw vegetables.
+# text = Serve dish with strips of fresh raw vegetables.
+1	Serve	serve	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	dish	dish	NOUN	NN	Number=Sing	1	obj	_	_
+3	with	with	ADP	IN	_	4	case	_	_
+4	strips	strip	NOUN	NNS	Number=Plur	1	obl	_	_
+5	of	of	ADP	IN	_	8	case	_	_
+6	fresh	fresh	ADJ	JJ	Degree=Pos	8	amod	_	_
+7	raw	raw	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	vegetables	vegetable	NOUN	NNS	Number=Plur	4	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n
+
+# sent_id = 41
+# sent_csv = He was watching a football match.
+# text = He was watching a football match.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
+3	watching	watch	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+5	football	football	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	match	match	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 42
+# sent_csv = He was watching a football game.
+# text = He was watching a football game.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
+3	watching	watch	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+5	football	football	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	game	game	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 43
+# sent_csv = He was watching a football stadium.
+# text = He was watching a football stadium.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
+3	watching	watch	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+5	football	football	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	stadium	stadium	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 44
+# sent_csv = Chelsea have a match with United next week.
+# text = Chelsea have a match with United next week.
+1	Chelsea	Chelsea	PROPN	NNP	Number=Sing	2	nsubj	_	_
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_
+4	match	match	NOUN	NN	Number=Sing	2	obj	_	_
+5	with	with	ADP	IN	_	8	case	_	_
+6	United	United	PROPN	NNP	Number=Sing	7	amod	_	_
+7	next	next	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	week	week	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 45
+# sent_csv = A game consists of two halves lasting 45 minutes, meaning it is 90 minutes long.
+# text = A game consists of two halves lasting 45 minutes, meaning it is 90 minutes long.
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+2	game	game	NOUN	NN	Number=Sing	3	compound	_	_
+3	consists	consist	NOUN	NNS	Number=Plur	7	nsubj	_	_
+4	of	of	ADP	IN	_	6	case	_	_
+5	two	two	NUM	CD	NumType=Card	6	nummod	_	_
+6	halves	halve	NOUN	NNS	Number=Plur	3	nmod	_	_
+7	lasting	laste	VERB	VBG	VerbForm=Ger	0	root	_	_
+8	45	@card@	NUM	CD	NumType=Card	9	nummod	_	_
+9	minutes	minute	NOUN	NNS	Number=Plur	7	obj	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	11	punct	_	_
+11	meaning	mean	VERB	VBG	VerbForm=Ger	7	advcl	_	_
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+14	90	@card@	NUM	CD	NumType=Card	15	nummod	_	_
+15	minutes	minute	NOUN	NNS	Number=Plur	16	obl:npmod	_	_
+16	long	long	ADJ	JJ	Degree=Pos	11	ccomp	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	7	punct	_	SpacesAfter=\n
+
+# sent_id = 46
+# sent_csv = They bough two boxes of matches.
+# text = They bough two boxes of matches.
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	bough	bough	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	two	two	NUM	CD	NumType=Card	4	nummod	_	_
+4	boxes	box	NOUN	NNS	Number=Plur	2	obj	_	_
+5	of	of	ADP	IN	_	6	case	_	_
+6	matches	matche	NOUN	NNS	Number=Plur	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 47
+# sent_csv = You should always strike a match away from you.
+# text = You should always strike a match away from you.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	_
+2	should	should	AUX	MD	VerbForm=Fin	4	aux	_	_
+3	always	always	ADV	RB	_	4	advmod	_	_
+4	strike	strike	VERB	VB	VerbForm=Inf	0	root	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+6	match	match	NOUN	NN	Number=Sing	4	obj	_	_
+7	away	away	ADV	RB	_	4	advmod	_	_
+8	from	from	ADP	IN	_	9	case	_	_
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 48
+# sent_csv = They bough two boxes of cereal.
+# text = They bough two boxes of cereal.
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	bough	bough	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	two	two	NUM	CD	NumType=Card	4	nummod	_	_
+4	boxes	box	NOUN	NNS	Number=Plur	2	obj	_	_
+5	of	of	ADP	IN	_	6	case	_	_
+6	cereal	cereal	NOUN	NN	Number=Sing	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 49
+# sent_csv = It would be difficult to match the service this airline gives its customers.
+# text = It would be difficult to match the service this airline gives its customers.
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	_
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	_
+4	difficult	difficult	ADJ	JJ	Degree=Pos	0	root	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	match	match	VERB	VB	VerbForm=Inf	4	xcomp	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	service	service	NOUN	NN	Number=Sing	6	obj	_	_
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	_
+10	airline	airline	NOUN	NN	Number=Sing	11	nsubj	_	_
+11	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+12	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
+13	customers	customer	NOUN	NNS	Number=Plur	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 50
+# sent_csv = It would be difficult to equal the service this airline gives its customers.
+# text = It would be difficult to equal the service this airline gives its customers.
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	_
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	_
+4	difficult	difficult	ADJ	JJ	Degree=Pos	0	root	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	equal	equal	VERB	VB	VerbForm=Inf	4	xcomp	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	service	service	NOUN	NN	Number=Sing	6	obj	_	_
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	_
+10	airline	airline	NOUN	NN	Number=Sing	11	nsubj	_	_
+11	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+12	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
+13	customers	customer	NOUN	NNS	Number=Plur	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 51
+# sent_csv = It would be difficult to worsen the service this airline gives its customers.
+# text = It would be difficult to worsen the service this airline gives its customers.
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	_
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	_
+4	difficult	difficult	ADJ	JJ	Degree=Pos	0	root	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	worsen	worsen	VERB	VB	VerbForm=Inf	4	xcomp	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	service	service	NOUN	NN	Number=Sing	6	obj	_	_
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	_
+10	airline	airline	NOUN	NN	Number=Sing	11	nsubj	_	_
+11	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+12	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
+13	customers	customer	NOUN	NNS	Number=Plur	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 52
+# sent_csv = Do you really think our team has a chance of matching their score?
+# text = Do you really think our team has a chance of matching their score?
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	_
+3	really	really	ADV	RB	_	4	advmod	_	_
+4	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	our	our	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
+6	team	team	NOUN	NN	Number=Sing	7	nsubj	_	_
+7	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_
+9	chance	chance	NOUN	NN	Number=Sing	7	obj	_	_
+10	of	of	SCONJ	IN	_	11	mark	_	_
+11	matching	match	VERB	VBG	VerbForm=Ger	9	acl	_	_
+12	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
+13	score	score	NOUN	NN	Number=Sing	11	obj	_	SpaceAfter=No
+14	?	?	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 53
+# sent_csv = We raised a lot of money last year and we're hoping to equal that this year.
+# text = We raised a lot of money last year and we're hoping to equal that this year.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	raised	raise	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_
+4	lot	lot	NOUN	NN	Number=Sing	2	obj	_	_
+5	of	of	ADP	IN	_	6	case	_	_
+6	money	money	NOUN	NN	Number=Sing	4	nmod	_	_
+7	last	last	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	year	year	NOUN	NN	Number=Sing	2	obl:tmod	_	_
+9	and	and	CCONJ	CC	_	10	cc	_	_
+10	we're	we're	VERB	VB	VerbForm=Inf	2	conj	_	_
+11	hoping	hope	VERB	VBG	VerbForm=Ger	10	xcomp	_	_
+12	to	to	PART	TO	_	13	mark	_	_
+13	equal	equal	VERB	VB	VerbForm=Inf	11	xcomp	_	_
+14	that	that	SCONJ	IN	_	16	mark	_	_
+15	this	this	DET	DT	Number=Sing|PronType=Dem	16	det	_	_
+16	year	year	NOUN	NN	Number=Sing	13	obj	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 54
+# sent_csv = She picked up a rock and threw it into the trees.
+# text = She picked up a rock and threw it into the trees.
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	picked	pick	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	up	up	ADP	RP	_	2	compound:prt	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_
+5	rock	rock	NOUN	NN	Number=Sing	2	obj	_	_
+6	and	and	CCONJ	CC	_	7	cc	_	_
+7	threw	throw	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	_	_
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+9	into	into	ADP	IN	_	11	case	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_
+11	trees	tree	NOUN	NNS	Number=Plur	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 55
+# sent_csv = She picked up a stone and threw it into the trees.
+# text = She picked up a stone and threw it into the trees.
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	picked	pick	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	up	up	ADP	RP	_	2	compound:prt	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_
+5	stone	stone	NOUN	NN	Number=Sing	2	obj	_	_
+6	and	and	CCONJ	CC	_	7	cc	_	_
+7	threw	throw	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	_
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+9	into	into	ADP	IN	_	11	case	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_
+11	trees	tree	NOUN	NNS	Number=Plur	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 56
+# sent_csv = She picked up a stick and threw it into the trees.
+# text = She picked up a stick and threw it into the trees.
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	picked	pick	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	up	up	ADP	RP	_	2	compound:prt	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_
+5	stick	stick	NOUN	NN	Number=Sing	2	obj	_	_
+6	and	and	CCONJ	CC	_	7	cc	_	_
+7	threw	throw	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	_
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+9	into	into	ADP	IN	_	11	case	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_
+11	trees	tree	NOUN	NNS	Number=Plur	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 57
+# sent_csv = Huge waves crashed against the rocks.
+# text = Huge waves crashed against the rocks.
+1	Huge	huge	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	waves	wave	NOUN	NNS	Number=Plur	1	obj	_	_
+3	crashed	crash	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	_
+4	against	against	ADP	IN	_	6	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	rocks	rock	NOUN	NNS	Number=Plur	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n
+
+# sent_id = 58
+# sent_csv = Use that stone there to hold the door open.
+# text = Use that stone there to hold the door open.
+1	Use	use	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	that	that	SCONJ	IN	_	3	mark	_	_
+3	stone	stone	NOUN	NN	Number=Sing	1	ccomp	_	_
+4	there	there	ADV	RB	PronType=Dem	3	advmod	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	hold	hold	VERB	VB	VerbForm=Inf	3	acl	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	door	door	NOUN	NN	Number=Sing	6	obj	_	_
+9	open	open	ADJ	JJ	Degree=Pos	6	xcomp	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n
+
+# sent_id = 59
+# sent_csv = I listen to country and rock.
+# text = I listen to country and rock.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	listen	listen	VERB	VB	VerbForm=Inf	0	root	_	_
+3	to	to	PART	TO	_	4	mark	_	_
+4	country	country	VERB	VB	VerbForm=Inf	2	xcomp	_	_
+5	and	and	CCONJ	CC	_	6	cc	_	_
+6	rock	rock	VERB	VB	VerbForm=Inf	4	conj	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 60
+# sent_csv = She once told an interviewer that they didn't even like rock music.
+# text = She once told an interviewer that they didn't even like rock music.
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	once	once	ADV	RB	NumType=Mult	3	advmod	_	_
+3	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_
+5	interviewer	interviewer	NOUN	NN	Number=Sing	3	obj	_	_
+6	that	that	SCONJ	IN	_	13	mark	_	_
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
+8	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	aux	_	SpaceAfter=No
+9	n't	not	PART	RB	Polarity=Neg	13	advmod	_	_
+10	even	even	ADV	RB	_	13	advmod	_	_
+11	like	like	ADP	IN	_	13	case	_	_
+12	rock	rock	NOUN	NN	Number=Sing	13	compound	_	_
+13	music	music	NOUN	NN	Number=Sing	5	ccomp	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 61
+# sent_csv = I listen to country and rap.
+# text = I listen to country and rap.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	listen	listen	VERB	VB	VerbForm=Inf	0	root	_	_
+3	to	to	PART	TO	_	4	mark	_	_
+4	country	country	VERB	VB	VerbForm=Inf	2	xcomp	_	_
+5	and	and	CCONJ	CC	_	6	cc	_	_
+6	rap	rap	NOUN	NN	Number=Sing	4	conj	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 62
+# sent_csv = We planted bulbs to flower in spring.
+# text = We planted bulbs to flower in spring.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	planted	plant	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	bulbs	bulb	NOUN	NNS	Number=Plur	2	obj	_	_
+4	to	to	ADP	TO	_	5	case	_	_
+5	flower	flower	NOUN	NN	Number=Sing	3	nmod	_	_
+6	in	in	ADP	IN	_	7	case	_	_
+7	spring	spr	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 63
+# sent_csv = We planted bulbs to flower in springtime.
+# text = We planted bulbs to flower in springtime.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	planted	plant	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	bulbs	bulb	NOUN	NNS	Number=Plur	2	obj	_	_
+4	to	to	ADP	TO	_	5	case	_	_
+5	flower	flower	NOUN	NN	Number=Sing	3	nmod	_	_
+6	in	in	ADP	IN	_	7	case	_	_
+7	springtime	springtime	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 64
+# sent_csv = We planted bulbs to flower in summer.
+# text = We planted bulbs to flower in summer.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	planted	plant	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	bulbs	bulb	NOUN	NNS	Number=Plur	2	obj	_	_
+4	to	to	ADP	TO	_	5	case	_	_
+5	flower	flower	NOUN	NN	Number=Sing	3	nmod	_	_
+6	in	in	ADP	IN	_	7	case	_	_
+7	summer	summer	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 65
+# sent_csv = They met again in the spring of 1977.
+# text = They met again in the spring of 1977.
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	met	meet	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	again	again	ADV	RB	_	2	advmod	_	_
+4	in	in	ADP	IN	_	6	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	spring	spring	NOUN	NN	Number=Sing	2	obl	_	_
+7	of	of	ADP	IN	_	8	case	_	_
+8	1977	@card@	NUM	CD	NumType=Card	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 66
+# sent_csv = Cherry trees bloom in the springtime.
+# text = Cherry trees bloom in the springtime.
+1	Cherry	Cherry	ADJ	JJ	Degree=Pos	3	amod	_	_
+2	trees	tree	NOUN	NNS	Number=Plur	3	compound	_	_
+3	bloom	bloom	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	6	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	springtime	springtime	NOUN	NN	Number=Sing	3	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 67
+# sent_csv = A spring popped out of the watch.
+# text = A spring popped out of the watch.
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	_
+2	spring	spr	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	popped	pop	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	out	out	ADP	RP	_	3	compound:prt	_	_
+5	of	of	ADP	IN	_	7	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	watch	watch	NOUN	NN	Number=Sing	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 68
+# sent_csv = Both springs in the fuel pump were broken.
+# text = Both springs in the fuel pump were broken.
+1	Both	both	DET	DT	_	2	det	_	_
+2	springs	spring	NOUN	NNS	Number=Plur	8	nsubj:pass	_	_
+3	in	in	ADP	IN	_	6	case	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+5	fuel	fuel	NOUN	NN	Number=Sing	6	compound	_	_
+6	pump	pump	NOUN	NN	Number=Sing	2	nmod	_	_
+7	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
+8	broken	break	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	8	punct	_	SpacesAfter=\n
+
+# sent_id = 69
+# sent_csv = A hand popped out of the watch.
+# text = A hand popped out of the watch.
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	_
+2	hand	hand	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	popped	pop	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	out	out	ADP	RP	_	3	compound:prt	_	_
+5	of	of	ADP	IN	_	7	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	watch	watch	NOUN	NN	Number=Sing	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 70
+# sent_csv = Throwing back the sheet, he springs from the bed.
+# text = Throwing back the sheet, he springs from the bed.
+1	Throwing	throw	VERB	VBG	VerbForm=Ger	7	advcl	_	_
+2	back	back	ADV	RB	_	1	advmod	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	sheet	sheet	NOUN	NN	Number=Sing	1	obj	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	1	punct	_	_
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	springs	spring	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	from	from	ADP	IN	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	bed	bed	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	7	punct	_	SpacesAfter=\n
+
+# sent_id = 71
+# sent_csv = Throwing back the sheet, he jumps from the bed.
+# text = Throwing back the sheet, he jumps from the bed.
+1	Throwing	throw	VERB	VBG	VerbForm=Ger	7	advcl	_	_
+2	back	back	ADV	RB	_	1	advmod	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	sheet	sheet	NOUN	NN	Number=Sing	1	obj	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	1	punct	_	_
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	jumps	jump	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	from	from	ADP	IN	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	bed	bed	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	7	punct	_	SpacesAfter=\n
+
+# sent_id = 72
+# sent_csv = Throwing back the sheet, he rises from the bed.
+# text = Throwing back the sheet, he rises from the bed.
+1	Throwing	throw	VERB	VBG	VerbForm=Ger	7	advcl	_	_
+2	back	back	ADV	RB	_	1	advmod	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	sheet	sheet	NOUN	NN	Number=Sing	1	obj	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	1	punct	_	_
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	rises	rise	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	from	from	ADP	IN	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	bed	bed	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	7	punct	_	SpacesAfter=\n
+
+# sent_id = 73
+# sent_csv = The cat wants to spring onto the sofa.
+# text = The cat wants to spring onto the sofa.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	cat	cat	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	to	to	PART	TO	_	5	mark	_	_
+5	spring	spr	VERB	VBG	VerbForm=Ger	3	xcomp	_	_
+6	onto	onto	ADP	IN	_	8	case	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	sofa	sofa	NOUN	NN	Number=Sing	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 74
+# sent_csv = He bought her an emerald ring.
+# text = He bought her an emerald ring.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	bought	buy	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+4	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+5	emerald	emerald	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	ring	ring	NOUN	NN	Number=Sing	2	obj	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 75
+# sent_csv = I'm looking at a ring with a jewel attached to it.
+# text = I'm looking at a ring with a jewel attached to it.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
+4	at	at	ADP	IN	_	6	case	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+6	ring	ring	NOUN	NN	Number=Sing	3	obl	_	_
+7	with	with	ADP	IN	_	9	case	_	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_
+9	jewel	jewel	NOUN	NN	Number=Sing	3	obl	_	_
+10	attached	attach	VERB	VBN	Tense=Past|VerbForm=Part	9	acl	_	_
+11	to	to	ADP	TO	_	12	case	_	_
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 76
+# sent_csv = He bought her an emerald necklace.
+# text = He bought her an emerald necklace.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	bought	buy	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+4	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+5	emerald	emerald	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	necklace	necklace	NOUN	NN	Number=Sing	2	obj	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 77
+# sent_csv = I would ring when I got back to the hotel.
+# text = I would ring when I got back to the hotel.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	_
+3	ring	re	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
+4	when	when	SCONJ	WRB	PronType=Int	6	mark	_	_
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	_	_
+7	back	back	ADV	RB	_	6	advmod	_	_
+8	to	to	ADP	TO	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	hotel	hotel	NOUN	NN	Number=Sing	6	obl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 78
+# sent_csv = I would phone when I got back to the hotel.
+# text = I would phone when I got back to the hotel.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	_
+3	phone	phone	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+4	when	when	SCONJ	WRB	PronType=Int	6	mark	_	_
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	_	_
+7	back	back	ADV	RB	_	6	advmod	_	_
+8	to	to	ADP	TO	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	hotel	hotel	NOUN	NN	Number=Sing	6	obl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 79
+# sent_csv = I would sleep when I got back to the hotel.
+# text = I would sleep when I got back to the hotel.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	_
+3	sleep	sleep	VERB	VB	VerbForm=Inf	0	root	_	_
+4	when	when	SCONJ	WRB	PronType=Int	6	mark	_	_
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	_	_
+7	back	back	ADV	RB	_	6	advmod	_	_
+8	to	to	ADP	TO	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	hotel	hotel	NOUN	NN	Number=Sing	6	obl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 80
+# sent_csv = I ring home once a week to tell my parents I'm okay.
+# text = I ring home once a week to tell my parents I'm okay.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	ring	r	VERB	VBG	VerbForm=Ger	0	root	_	_
+3	home	home	NOUN	NN	Number=Sing	2	obj	_	_
+4	once	once	ADV	RB	NumType=Mult	6	advmod	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+6	week	week	NOUN	NN	Number=Sing	2	obl	_	_
+7	to	to	PART	TO	_	8	mark	_	_
+8	tell	tell	VERB	VB	VerbForm=Inf	6	acl	_	_
+9	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
+10	parents	parent	NOUN	NNS	Number=Plur	8	obj	_	_
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	SpaceAfter=No
+12	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	okay	okay	ADJ	JJ	Degree=Pos	8	ccomp	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 81
+# sent_csv = She phoned just after lunch.
+# text = She phoned just after lunch.
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	phoned	phon	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	just	just	ADV	RB	_	2	advmod	_	_
+4	after	after	ADP	IN	_	5	case	_	_
+5	lunch	lunch	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 82
+# sent_csv = Add the cream a few drops at a time..
+# text = Add the cream a few drops at a time..
+1	Add	add	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+3	cream	cream	NOUN	NN	Number=Sing	6	compound	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+5	few	few	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	drops	drop	NOUN	NNS	Number=Plur	1	obj	_	_
+7	at	at	ADP	IN	_	9	case	_	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_
+9	time	time	NOUN	NN	Number=Sing	1	obl	_	SpaceAfter=No
+10	..	..	PUNCT	.	_	1	punct	_	SpacesAfter=\n
+
+# sent_id = 83
+# sent_csv = Add the cream a few beads at a time..
+# text = Add the cream a few beads at a time..
+1	Add	add	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
+3	cream	cream	NOUN	NN	Number=Sing	1	obj	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+5	few	few	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	beads	bead	NOUN	NNS	Number=Plur	3	obj	_	_
+7	at	at	ADP	IN	_	9	case	_	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_
+9	time	time	NOUN	NN	Number=Sing	1	obl	_	SpaceAfter=No
+10	..	..	PUNCT	.	_	1	punct	_	SpacesAfter=\n
+
+# sent_id = 84
+# sent_csv = Add the cream a few almonds at a time..
+# text = Add the cream a few almonds at a time..
+1	Add	add	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
+3	cream	cream	NOUN	NN	Number=Sing	1	obj	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+5	few	few	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	almonds	almond	NOUN	NNS	Number=Plur	3	obj	_	_
+7	at	at	ADP	IN	_	9	case	_	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_
+9	time	time	NOUN	NN	Number=Sing	1	obl	_	SpaceAfter=No
+10	..	..	PUNCT	.	_	1	punct	_	SpacesAfter=\n
+
+# sent_id = 85
+# sent_csv = I thought I felt a drop of rain.
+# text = I thought I felt a drop of rain.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	felt	feel	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+6	drop	drop	NOUN	NN	Number=Sing	4	obj	_	_
+7	of	of	ADP	IN	_	8	case	_	_
+8	rain	rain	NOUN	NN	Number=Sing	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 86
+# sent_csv = He wiped away the beads of sweat on his forehead.
+# text = He wiped away the beads of sweat on his forehead.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	wiped	wipe	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	away	away	ADP	RP	_	2	compound:prt	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	beads	bead	NOUN	NNS	Number=Plur	2	obj	_	_
+6	of	of	ADP	IN	_	7	case	_	_
+7	sweat	sweat	NOUN	NN	Number=Sing	5	nmod	_	_
+8	on	on	ADP	IN	_	10	case	_	_
+9	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
+10	forehead	forehead	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 87
+# sent_csv = Temperatures can drop to freezing at night.
+# text = Temperatures can drop to freezing at night.
+1	Temperatures	temperature	NOUN	NNS	Number=Plur	3	nsubj	_	_
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	_
+3	drop	drop	VERB	VB	VerbForm=Inf	0	root	_	_
+4	to	to	PART	TO	_	5	mark	_	_
+5	freezing	freeze	VERB	VBG	VerbForm=Ger	3	xcomp	_	_
+6	at	at	ADP	IN	_	7	case	_	_
+7	night	night	NOUN	NN	Number=Sing	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 88
+# sent_csv = Temperatures can fall to freezing at night.
+# text = Temperatures can fall to freezing at night.
+1	Temperatures	temperature	NOUN	NNS	Number=Plur	3	nsubj	_	_
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	_
+3	fall	fall	VERB	VB	VerbForm=Inf	0	root	_	_
+4	to	to	PART	TO	_	5	mark	_	_
+5	freezing	freeze	VERB	VBG	VerbForm=Ger	3	xcomp	_	_
+6	at	at	ADP	IN	_	7	case	_	_
+7	night	night	NOUN	NN	Number=Sing	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 89
+# sent_csv = Temperatures can increase to freezing at night.
+# text = Temperatures can increase to freezing at night.
+1	Temperatures	temperature	NOUN	NNS	Number=Plur	3	nsubj	_	_
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	_
+3	increase	increase	VERB	VB	VerbForm=Inf	0	root	_	_
+4	to	to	PART	TO	_	5	mark	_	_
+5	freezing	freeze	VERB	VBG	VerbForm=Ger	3	xcomp	_	_
+6	at	at	ADP	IN	_	7	case	_	_
+7	night	night	NOUN	NN	Number=Sing	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 90
+# sent_csv = His blood pressure had dropped severely.
+# text = His blood pressure had dropped severely.
+1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	_
+2	blood	blood	NOUN	NN	Number=Sing	3	compound	_	_
+3	pressure	pressure	NOUN	NN	Number=Sing	5	nsubj	_	_
+4	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	_
+5	dropped	drop	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+6	severely	severely	ADV	RB	_	5	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	5	punct	_	SpacesAfter=\n
+
+# sent_id = 91
+# sent_csv = Her weight fell to under seven stones.
+# text = Her weight fell to under seven stones.
+1	Her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
+2	weight	weight	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	fell	fall	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	to	to	ADP	TO	_	7	case	_	_
+5	under	under	ADV	RB	_	6	advmod	_	_
+6	seven	seven	NUM	CD	NumType=Card	7	nummod	_	_
+7	stones	stone	NOUN	NNS	Number=Plur	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 92
+# sent_csv = The ducks started quacking loudly when we threw them some bread.
+# text = The ducks started quacking loudly when we threw them some bread.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	ducks	duck	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	started	start	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	quacking	quack	VERB	VBG	VerbForm=Ger	3	xcomp	_	_
+5	loudly	loudly	ADV	RB	_	4	advmod	_	_
+6	when	when	SCONJ	WRB	PronType=Int	8	mark	_	_
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+8	threw	throw	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	_	_
+9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
+10	some	some	DET	DT	_	11	det	_	_
+11	bread	bread	NOUN	NN	Number=Sing	8	xcomp	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 93
+# sent_csv = The drakes started quacking loudly when we threw them some bread.
+# text = The drakes started quacking loudly when we threw them some bread.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	drakes	drake	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	started	start	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	quacking	quack	VERB	VBG	VerbForm=Ger	3	xcomp	_	_
+5	loudly	loudly	ADV	RB	_	4	advmod	_	_
+6	when	when	SCONJ	WRB	PronType=Int	8	mark	_	_
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+8	threw	throw	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	_	_
+9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
+10	some	some	DET	DT	_	11	det	_	_
+11	bread	bread	NOUN	NN	Number=Sing	8	xcomp	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 94
+# sent_csv = The pigeons started quacking loudly when we threw them some bread.
+# text = The pigeons started quacking loudly when we threw them some bread.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	pigeons	pigeon	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	started	start	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	quacking	quack	VERB	VBG	VerbForm=Ger	3	xcomp	_	_
+5	loudly	loudly	ADV	RB	_	4	advmod	_	_
+6	when	when	SCONJ	WRB	PronType=Int	8	mark	_	_
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+8	threw	throw	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	_	_
+9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
+10	some	some	DET	DT	_	11	det	_	_
+11	bread	bread	NOUN	NN	Number=Sing	8	xcomp	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 95
+# sent_csv = Chickens and ducks scratch around the outbuildings.
+# text = Chickens and ducks scratch around the outbuildings.
+1	Chickens	chicken	NOUN	NNS	Number=Plur	4	nsubj	_	_
+2	and	and	CCONJ	CC	_	3	cc	_	_
+3	ducks	duck	NOUN	NNS	Number=Plur	1	conj	_	_
+4	scratch	scratch	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	around	around	ADP	IN	_	7	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	outbuildings	outbuilding	NOUN	NNS	Number=Plur	4	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 96
+# sent_csv = A lone drake sat by the edge of the pond.
+# text = A lone drake sat by the edge of the pond.
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+2	lone	lone	ADJ	JJ	Degree=Pos	3	amod	_	_
+3	drake	drake	NOUN	NN	Number=Sing	4	nsubj	_	_
+4	sat	sit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+5	by	by	ADP	IN	_	7	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	edge	edge	NOUN	NN	Number=Sing	4	obl	_	_
+8	of	of	ADP	IN	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	pond	pond	NOUN	NN	Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 97
+# sent_csv = I duck the head to hide my admiration.
+# text = I duck the head to hide my admiration.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	duck	dick	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	head	head	NOUN	NN	Number=Sing	2	obj	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	hide	hide	VERB	VB	VerbForm=Inf	2	advcl	_	_
+7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
+8	admiration	admiration	NOUN	NN	Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 98
+# sent_csv = I lower the head to hide my admiration.
+# text = I lower the head to hide my admiration.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	lower	low	ADJ	JJR	Degree=Cmp	4	amod	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	head	head	NOUN	NN	Number=Sing	0	root	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	hide	hide	VERB	VB	VerbForm=Inf	4	acl	_	_
+7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
+8	admiration	admiration	NOUN	NN	Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 99
+# sent_csv = I raise the head to hide my admiration.
+# text = I raise the head to hide my admiration.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	raise	raise	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	head	head	NOUN	NN	Number=Sing	2	obj	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	hide	hide	VERB	VB	VerbForm=Inf	2	advcl	_	_
+7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
+8	admiration	admiration	NOUN	NN	Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 100
+# sent_csv = He ducked in time to save his head from a blow from the poker.
+# text = He ducked in time to save his head from a blow from the poker.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	ducked	duck	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	in	in	ADP	IN	_	4	case	_	_
+4	time	time	NOUN	NN	Number=Sing	2	obl	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	save	save	VERB	VB	VerbForm=Inf	2	advcl	_	_
+7	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
+8	head	head	NOUN	NN	Number=Sing	6	obj	_	_
+9	from	from	ADP	IN	_	11	case	_	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	_
+11	blow	blow	NOUN	NN	Number=Sing	6	obl	_	_
+12	from	from	ADP	IN	_	14	case	_	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	_
+14	poker	poker	NOUN	NN	Number=Sing	6	obl	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 101
+# sent_csv = She lowered her gaze to the hands in her lap.
+# text = She lowered her gaze to the hands in her lap.
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	lowered	lower	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
+4	gaze	gaze	NOUN	NN	Number=Sing	2	obj	_	_
+5	to	to	ADP	TO	_	7	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	hands	hand	NOUN	NNS	Number=Plur	2	obl	_	_
+8	in	in	ADP	IN	_	10	case	_	_
+9	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
+10	lap	lap	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 102
+# sent_csv = He wiped his sweaty palm.
+# text = He wiped his sweaty palm.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	wiped	wipe	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+4	sweaty	sweaty	NOUN	NN	Number=Sing	5	compound	_	_
+5	palm	palm	NOUN	NN	Number=Sing	2	obj	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 103
+# sent_csv = He wiped his sweaty hand.
+# text = He wiped his sweaty hand.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	wiped	wipe	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+4	sweaty	sweaty	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	hand	hand	NOUN	NN	Number=Sing	2	obj	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 104
+# sent_csv = He wiped his sweaty face.
+# text = He wiped his sweaty face.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	wiped	wipe	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+4	sweaty	sweaty	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	face	face	NOUN	NN	Number=Sing	2	obj	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 105
+# sent_csv = This tiny device fits into the palm of your hand.
+# text = This tiny device fits into the palm of your hand.
+1	This	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	_
+2	tiny	tiny	ADJ	JJ	Degree=Pos	3	amod	_	_
+3	device	device	NOUN	NN	Number=Sing	4	nsubj	_	_
+4	fits	fit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	into	into	ADP	IN	_	7	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	palm	palm	NOUN	NN	Number=Sing	4	obl	_	_
+8	of	of	ADP	IN	_	10	case	_	_
+9	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
+10	hand	hand	NOUN	NN	Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 106
+# sent_csv = I put my hand into my pocket and pulled out the letter.
+# text = I put my hand into my pocket and pulled out the letter.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	put	put	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
+4	hand	hand	NOUN	NN	Number=Sing	2	obj	_	_
+5	into	into	ADP	IN	_	7	case	_	_
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
+7	pocket	pocket	NOUN	NN	Number=Sing	2	obl	_	_
+8	and	and	CCONJ	CC	_	9	cc	_	_
+9	pulled	pull	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	_
+10	out	out	ADP	RP	_	9	compound:prt	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	_
+12	letter	letter	NOUN	NN	Number=Sing	9	obj	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 107
+# sent_csv = The island has long golden beaches fringed by palm trees.
+# text = The island has long golden beaches fringed by palm trees.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	island	island	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	long	long	ADJ	JJ	Degree=Pos	6	amod	_	_
+5	golden	golden	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	beaches	beach	NOUN	NNS	Number=Plur	3	obj	_	_
+7	fringed	fringe	VERB	VBN	Tense=Past|VerbForm=Part	6	acl	_	_
+8	by	by	ADP	IN	_	10	case	_	_
+9	palm	palm	NOUN	NN	Number=Sing	10	compound	_	_
+10	trees	tree	NOUN	NNS	Number=Plur	7	obl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 108
+# sent_csv = More than two-thirds of palms live in tropical forests.
+# text = More than two-thirds of palms live in tropical forests.
+1	More	more	ADJ	JJR	Degree=Cmp	6	amod	_	_
+2	than	than	ADP	IN	_	3	case	_	_
+3	two-thirds	two-third	NOUN	NNS	Number=Plur	1	obl	_	_
+4	of	of	ADP	IN	_	5	case	_	_
+5	palms	palms	NOUN	NNS	Number=Plur	3	nmod	_	_
+6	live	live	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	in	in	ADP	IN	_	9	case	_	_
+8	tropical	tropical	ADJ	JJ	Degree=Pos	9	amod	_	_
+9	forests	forest	NOUN	NNS	Number=Plur	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	6	punct	_	SpacesAfter=\n
+
+# sent_id = 109
+# sent_csv = The island has long golden beaches fringed by oak trees.
+# text = The island has long golden beaches fringed by oak trees.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	island	island	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	long	long	ADJ	JJ	Degree=Pos	6	amod	_	_
+5	golden	golden	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	beaches	beach	NOUN	NNS	Number=Plur	3	obj	_	_
+7	fringed	fringe	VERB	VBN	Tense=Past|VerbForm=Part	6	acl	_	_
+8	by	by	ADP	IN	_	10	case	_	_
+9	oak	oak	ADJ	JJ	Degree=Pos	10	amod	_	_
+10	trees	tree	NOUN	NNS	Number=Plur	7	obl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 110
+# sent_csv = Most rulers work by having numbers and little lines.
+# text = Most rulers work by having numbers and little lines.
+1	Most	most	ADJ	JJS	Degree=Sup	2	amod	_	_
+2	rulers	ruler	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	by	by	SCONJ	IN	_	5	mark	_	_
+5	having	have	VERB	VBG	VerbForm=Ger	3	advcl	_	_
+6	numbers	number	NOUN	NNS	Number=Plur	5	obj	_	_
+7	and	and	CCONJ	CC	_	9	cc	_	_
+8	little	little	ADJ	JJ	Degree=Pos	9	amod	_	_
+9	lines	line	NOUN	NNS	Number=Plur	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 111
+# sent_csv = Most measurers work by having numbers and little lines.
+# text = Most measurers work by having numbers and little lines.
+1	Most	most	ADJ	JJS	Degree=Sup	2	amod	_	_
+2	measurers	measurer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	by	by	SCONJ	IN	_	5	mark	_	_
+5	having	have	VERB	VBG	VerbForm=Ger	3	advcl	_	_
+6	numbers	number	NOUN	NNS	Number=Plur	5	obj	_	_
+7	and	and	CCONJ	CC	_	9	cc	_	_
+8	little	little	ADJ	JJ	Degree=Pos	9	amod	_	_
+9	lines	line	NOUN	NNS	Number=Plur	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 112
+# sent_csv = Most mathematicians work by having numbers and little lines.
+# text = Most mathematicians work by having numbers and little lines.
+1	Most	most	ADJ	JJS	Degree=Sup	2	amod	_	_
+2	mathematicians	mathematician	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	by	by	SCONJ	IN	_	5	mark	_	_
+5	having	have	VERB	VBG	VerbForm=Ger	3	advcl	_	_
+6	numbers	number	NOUN	NNS	Number=Plur	5	obj	_	_
+7	and	and	CCONJ	CC	_	9	cc	_	_
+8	little	little	ADJ	JJ	Degree=Pos	9	amod	_	_
+9	lines	line	NOUN	NNS	Number=Plur	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 113
+# sent_csv = Rulers can be made of plastic, metal, and other materials.
+# text = Rulers can be made of plastic, metal, and other materials.
+1	Rulers	Ruler	NOUN	NNS	Number=Plur	4	nsubj:pass	_	_
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	_
+3	be	be	AUX	VB	VerbForm=Inf	4	aux:pass	_	_
+4	made	make	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+5	of	of	ADP	IN	_	6	case	_	_
+6	plastic	plastic	NOUN	NN	Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	8	punct	_	_
+8	metal	metal	ADJ	JJ	Degree=Pos	4	conj	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	12	punct	_	_
+10	and	and	CCONJ	CC	_	12	cc	_	_
+11	other	other	ADJ	JJ	Degree=Pos	12	amod	_	_
+12	materials	material	NOUN	NNS	Number=Plur	4	conj	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 114
+# sent_csv = The country was without a ruler after the queen died.
+# text = The country was without a ruler after the queen died.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	country	country	NOUN	NN	Number=Sing	6	nsubj	_	_
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+4	without	without	ADP	IN	_	6	case	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+6	ruler	ruler	NOUN	NN	Number=Sing	0	root	_	_
+7	after	after	ADP	IN	_	9	case	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	queen	queen	NOUN	NN	Number=Sing	6	nmod	_	_
+10	died	die	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	acl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	6	punct	_	SpacesAfter=\n
+
+# sent_id = 115
+# sent_csv = The country was without a potentate after the queen died.
+# text = The country was without a potentate after the queen died.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	country	country	NOUN	NN	Number=Sing	6	nsubj	_	_
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+4	without	without	ADP	IN	_	6	case	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+6	potentate	potentate	NOUN	NN	Number=Sing	0	root	_	_
+7	after	after	ADP	IN	_	9	case	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	queen	queen	NOUN	NN	Number=Sing	6	nmod	_	_
+10	died	die	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	acl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	6	punct	_	SpacesAfter=\n
+
+# sent_id = 116
+# sent_csv = The country was without a palace after the queen died.
+# text = The country was without a palace after the queen died.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	country	country	NOUN	NN	Number=Sing	6	nsubj	_	_
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+4	without	without	ADP	IN	_	6	case	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+6	palace	palace	NOUN	NN	Number=Sing	0	root	_	_
+7	after	after	ADP	IN	_	9	case	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	queen	queen	NOUN	NN	Number=Sing	6	nmod	_	_
+10	died	die	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	acl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	6	punct	_	SpacesAfter=\n
+
+# sent_id = 117
+# sent_csv = The current ruler is concentrating all power in his own hands. 
+# text = The current ruler is concentrating all power in his own hands.
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
+2	current	current	ADJ	JJ	Degree=Pos	3	amod	_	_
+3	ruler	ruler	NOUN	NN	Number=Sing	5	nsubj	_	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	concentrating	concentrat	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
+6	all	all	DET	DT	_	7	det	_	_
+7	power	power	NOUN	NN	Number=Sing	5	obj	_	_
+8	in	in	ADP	IN	_	11	case	_	_
+9	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
+10	own	own	ADJ	JJ	Degree=Pos	11	amod	_	_
+11	hands	hand	NOUN	NNS	Number=Plur	5	obl	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	5	punct	_	SpacesAfter=\s\n
+
+# sent_id = 118
+# sent_csv = Colonial rulers groomed and paid local potentates.
+# text = Colonial rulers groomed and paid local potentates.
+1	Colonial	Colonial	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	rulers	ruler	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	groomed	groom	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	and	and	CCONJ	CC	_	5	cc	_	_
+5	paid	pay	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	_
+6	local	local	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	potentates	potentate	NOUN	NNS	Number=Plur	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 119
+# sent_csv = The current ruler is concentrating all power in his own hands.
+# text = The current ruler is concentrating all power in his own hands.
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
+2	current	current	ADJ	JJ	Degree=Pos	3	amod	_	_
+3	ruler	ruler	NOUN	NN	Number=Sing	5	nsubj	_	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	concentrating	concentrat	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
+6	all	all	DET	DT	_	7	det	_	_
+7	power	power	NOUN	NN	Number=Sing	5	obj	_	_
+8	in	in	ADP	IN	_	11	case	_	_
+9	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
+10	own	own	ADJ	JJ	Degree=Pos	11	amod	_	_
+11	hands	hand	NOUN	NNS	Number=Plur	5	obl	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	5	punct	_	SpacesAfter=\n
+
+# sent_id = 120
+# sent_csv = Keep your nails short and your hands clean.
+# text = Keep your nails short and your hands clean.
+1	Keep	keep	VERB	VB	VerbForm=Inf	0	root	_	_
+2	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	_
+3	nails	nail	NOUN	NNS	Number=Plur	1	obj	_	_
+4	short	short	ADJ	JJ	Degree=Pos	8	amod	_	_
+5	and	and	CCONJ	CC	_	7	cc	_	_
+6	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
+7	hands	hand	NOUN	NNS	Number=Plur	4	conj	_	_
+8	clean	clean	ADJ	JJ	Degree=Pos	1	xcomp	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n
+
+# sent_id = 121
+# sent_csv = Keep your fingernails short and your hands clean.
+# text = Keep your fingernails short and your hands clean.
+1	Keep	keep	VERB	VB	VerbForm=Inf	0	root	_	_
+2	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	_
+3	fingernails	fingernail	NOUN	NNS	Number=Plur	1	obj	_	_
+4	short	short	ADJ	JJ	Degree=Pos	8	amod	_	_
+5	and	and	CCONJ	CC	_	7	cc	_	_
+6	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
+7	hands	hand	NOUN	NNS	Number=Plur	4	conj	_	_
+8	clean	clean	ADJ	JJ	Degree=Pos	1	xcomp	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n
+
+# sent_id = 122
+# sent_csv = Keep your hair short and your hands clean.
+# text = Keep your hair short and your hands clean.
+1	Keep	keep	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	_
+3	hair	hair	NOUN	NN	Number=Sing	1	obj	_	_
+4	short	short	ADJ	JJ	Degree=Pos	8	amod	_	_
+5	and	and	CCONJ	CC	_	7	cc	_	_
+6	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
+7	hands	hand	NOUN	NNS	Number=Plur	4	conj	_	_
+8	clean	clean	ADJ	JJ	Degree=Pos	1	xcomp	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n
+
+# sent_id = 123
+# sent_csv = Please stop biting your nails!
+# text = Please stop biting your nails!
+1	Please	please	INTJ	UH	_	2	discourse	_	_
+2	stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
+3	biting	bite	VERB	VBG	VerbForm=Ger	2	xcomp	_	_
+4	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+5	nails	nail	NOUN	NNS	Number=Plur	3	obj	_	SpaceAfter=No
+6	!	!	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 124
+# sent_csv = She had long red fingernails.
+# text = She had long red fingernails.
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	long	long	ADJ	JJ	Degree=Pos	5	amod	_	_
+4	red	red	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	fingernails	fingernail	NOUN	NNS	Number=Plur	2	obj	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 125
+# sent_csv = A mirror hung on a nail above the washstand.
+# text = A mirror hung on a nail above the washstand.
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	_
+2	mirror	mirror	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	hung	hang	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	on	on	ADP	IN	_	6	case	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+6	nail	nail	NOUN	NN	Number=Sing	3	obl	_	_
+7	above	above	ADP	IN	_	9	case	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	washstand	washstand	NOUN	NN	Number=Sing	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 126
+# sent_csv = A mirror hung on a tack above the washstand.
+# text = A mirror hung on a tack above the washstand.
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	_
+2	mirror	mirror	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	hung	hang	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	on	on	ADP	IN	_	6	case	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+6	tack	tack	NOUN	NN	Number=Sing	3	obl	_	_
+7	above	above	ADP	IN	_	9	case	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	washstand	washstand	NOUN	NN	Number=Sing	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 127
+# sent_csv = A mirror hung on a wire above the washstand.
+# text = A mirror hung on a wire above the washstand.
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	_
+2	mirror	mirror	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	hung	hang	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	on	on	ADP	IN	_	6	case	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+6	wire	wire	NOUN	NN	Number=Sing	3	obl	_	_
+7	above	above	ADP	IN	_	9	case	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	washstand	washstand	NOUN	NN	Number=Sing	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 128
+# sent_csv = He hammered the nail into the branch.
+# text = He hammered the nail into the branch.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	hammered	hammer	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	nail	nail	NOUN	NN	Number=Sing	2	obj	_	_
+5	into	into	ADP	IN	_	7	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	branch	branch	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 129
+# sent_csv = He fixed it with three tacks.
+# text = He fixed it with three tacks.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	fixed	fix	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+4	with	with	ADP	IN	_	6	case	_	_
+5	three	three	NUM	CD	NumType=Card	6	nummod	_	_
+6	tacks	tack	NOUN	NNS	Number=Plur	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 130
+# sent_csv = She lifted the lead again.
+# text = She lifted the lead again.
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	lifted	lift	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	lead	lead	NOUN	NN	Number=Sing	2	obj	_	_
+5	again	again	ADV	RB	_	2	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 131
+# sent_csv = Pass me those two leads please.
+# text = Pass me those two leads please.
+1	Pass	pass	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	me	me	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	_
+3	those	those	DET	DT	Number=Plur|PronType=Dem	5	det	_	_
+4	two	two	NUM	CD	NumType=Card	5	nummod	_	_
+5	leads	lead	NOUN	NNS	Number=Plur	6	nsubj	_	_
+6	please	please	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n
+
+# sent_id = 132
+# sent_csv = They now have a lead of 28 points.
+# text = They now have a lead of 28 points.
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	now	now	ADV	RB	_	3	advmod	_	_
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_
+5	lead	lead	NOUN	NN	Number=Sing	3	obj	_	_
+6	of	of	ADP	IN	_	8	case	_	_
+7	28	@card@	NUM	CD	NumType=Card	8	nummod	_	_
+8	points	point	NOUN	NNS	Number=Plur	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 133
+# sent_csv = They now have an advantage of 28 points.
+# text = They now have an advantage of 28 points.
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	now	now	ADV	RB	_	3	advmod	_	_
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_
+5	advantage	advantage	NOUN	NN	Number=Sing	3	obj	_	_
+6	of	of	ADP	IN	_	8	case	_	_
+7	28	@card@	NUM	CD	NumType=Card	8	nummod	_	_
+8	points	point	NOUN	NNS	Number=Plur	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 134
+# sent_csv = They now have a debt of 28 points.
+# text = They now have a debt of 28 points.
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	now	now	ADV	RB	_	3	advmod	_	_
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_
+5	debt	debt	NOUN	NN	Number=Sing	3	obj	_	_
+6	of	of	ADP	IN	_	8	case	_	_
+7	28	@card@	NUM	CD	NumType=Card	8	nummod	_	_
+8	points	point	NOUN	NNS	Number=Plur	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 135
+# sent_csv = His goal gave them a two-goal lead once more time.
+# text = His goal gave them a two-goal lead once more time.
+1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
+2	goal	goal	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	iobj	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	_
+6	two-goal	two-goal	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	lead	lead	NOUN	NN	Number=Sing	3	obj	_	_
+8	once	once	ADV	RB	NumType=Mult	9	advmod	_	_
+9	more	more	ADJ	JJR	Degree=Cmp	10	amod	_	_
+10	time	time	NOUN	NN	Number=Sing	3	obl:tmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 136
+# sent_csv = The player who scores the next point after deuce has the advantage.
+# text = The player who scores the next point after deuce has the advantage.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	player	player	NOUN	NN	Number=Sing	0	root	_	_
+3	who	who	PRON	WP	PronType=Rel	4	nsubj	_	_
+4	scores	score	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+6	next	next	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	point	point	NOUN	NN	Number=Sing	4	obj	_	_
+8	after	after	SCONJ	IN	_	10	mark	_	_
+9	deuce	deuce	NOUN	NN	Number=Sing	10	nsubj	_	_
+10	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	_
+12	advantage	advantage	NOUN	NN	Number=Sing	10	obj	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n
+

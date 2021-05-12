@@ -1,0 +1,1800 @@
+# sent_id = 1
+# sent_csv = Aunque la cuenta esté vacía, el banco sigue estando obligado a pagar la factura a final de mes.
+# text = Aunque la cuenta esté vacía , el banco sigue estando obligado a pagar la factura a final de mes .
+1	Aunque	aunque	CCONJ	CC	_	5	advmod	_	_
+2	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	cuenta	cuenta	NOUN	NCFS000	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	esté	estar	AUX	VMSP3S0	Mood=Sub|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
+5	vacía	vacío	ADJ	AQ0FS0	Gender=Fem|Number=Sing	9	advcl	_	_
+6	,	,	PUNCT	Fc	_	5	punct	_	_
+7	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	banco	banco	NOUN	NCMS000	Gender=Masc|Number=Sing	9	nsubj	_	_
+9	sigue	seguir	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+10	estando	estar	AUX	VMG0000	VerbForm=Ger	9	aux	_	_
+11	obligado	obligar	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	9	xcomp	_	_
+12	a	a	ADP	SP	AdpType=Prep	13	mark	_	_
+13	pagar	pagar	VERB	VMN0000	VerbForm=Inf	11	xcomp	_	_
+14	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	factura	factura	NOUN	NCFS000	Gender=Fem|Number=Sing	13	obj	_	_
+16	a	a	ADP	SP	AdpType=Prep	17	case	_	_
+17	final	final	NOUN	NCCS000	Gender=Com|Number=Sing	11	obl	_	_
+18	de	de	ADP	SP	AdpType=Prep	19	case	_	_
+19	mes	mes	NOUN	NCMS000	Gender=Masc|Number=Sing	17	nmod	_	_
+20	.	.	PUNCT	Fp	_	9	punct	_	_
+
+# sent_id = 2
+# sent_csv = Aunque la cuenta esté vacía, la entidad financiera sigue estando obligada a pagar la factura a final de mes.
+# text = Aunque la cuenta esté vacía , la entidad financiera sigue estando obligada a pagar la factura a final de mes .
+1	Aunque	aunque	CCONJ	CC	_	5	advmod	_	_
+2	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	cuenta	cuenta	NOUN	NCFS000	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	esté	estar	AUX	VMSP3S0	Mood=Sub|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
+5	vacía	vacío	ADJ	AQ0FS0	Gender=Fem|Number=Sing	10	advcl	_	_
+6	,	,	PUNCT	Fc	_	5	punct	_	_
+7	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	entidad	entidad	NOUN	NCFS000	Gender=Fem|Number=Sing	10	nsubj	_	_
+9	financiera	financiero	ADJ	AQ0FS0	Gender=Fem|Number=Sing	8	amod	_	_
+10	sigue	seguir	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+11	estando	estar	AUX	VMG0000	VerbForm=Ger	10	aux	_	_
+12	obligada	obligar	VERB	VMP00SF	Gender=Fem|Number=Sing|VerbForm=Part	10	xcomp	_	_
+13	a	a	ADP	SP	AdpType=Prep	14	mark	_	_
+14	pagar	pagar	VERB	VMN0000	VerbForm=Inf	12	xcomp	_	_
+15	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	factura	factura	NOUN	NCFS000	Gender=Fem|Number=Sing	14	obj	_	_
+17	a	a	ADP	SP	AdpType=Prep	18	case	_	_
+18	final	final	NOUN	NCCS000	Gender=Com|Number=Sing	12	obl	_	_
+19	de	de	ADP	SP	AdpType=Prep	20	case	_	_
+20	mes	mes	NOUN	NCMS000	Gender=Masc|Number=Sing	18	nmod	_	_
+21	.	.	PUNCT	Fp	_	10	punct	_	_
+
+# sent_id = 3
+# sent_csv = Aunque la cuenta esté vacía, el cliente sigue estando obligado a pagar la factura a final de mes.
+# text = Aunque la cuenta esté vacía , el cliente sigue estando obligado a pagar la factura a final de mes .
+1	Aunque	aunque	CCONJ	CC	_	5	advmod	_	_
+2	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	cuenta	cuenta	NOUN	NCFS000	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	esté	estar	AUX	VMSP3S0	Mood=Sub|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
+5	vacía	vacío	ADJ	AQ0FS0	Gender=Fem|Number=Sing	9	advcl	_	_
+6	,	,	PUNCT	Fc	_	5	punct	_	_
+7	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	cliente	cliente	NOUN	NCCS000	Gender=Com|Number=Sing	9	nsubj	_	_
+9	sigue	seguir	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+10	estando	estar	AUX	VMG0000	VerbForm=Ger	9	aux	_	_
+11	obligado	obligar	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	9	xcomp	_	_
+12	a	a	ADP	SP	AdpType=Prep	13	mark	_	_
+13	pagar	pagar	VERB	VMN0000	VerbForm=Inf	11	xcomp	_	_
+14	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	factura	factura	NOUN	NCFS000	Gender=Fem|Number=Sing	13	obj	_	_
+16	a	a	ADP	SP	AdpType=Prep	17	case	_	_
+17	final	final	NOUN	NCCS000	Gender=Com|Number=Sing	11	obl	_	_
+18	de	de	ADP	SP	AdpType=Prep	19	case	_	_
+19	mes	mes	NOUN	NCMS000	Gender=Masc|Number=Sing	17	nmod	_	_
+20	.	.	PUNCT	Fp	_	9	punct	_	_
+
+# sent_id = 4
+# sent_csv = La directora de este banco estudió economía en la universidad.
+# text = La directora de este banco estudió economía en la universidad .
+1	La	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	directora	director	NOUN	NCFS000	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	de	de	ADP	SP	AdpType=Prep	5	case	_	_
+4	este	este	DET	DD0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	banco	banco	NOUN	NCMS000	Gender=Masc|Number=Sing	2	nmod	_	_
+6	estudió	estudiar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+7	economía	economía	NOUN	NCFS000	Gender=Fem|Number=Sing	6	obj	_	_
+8	en	en	ADP	SP	AdpType=Prep	10	case	_	_
+9	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	universidad	universidad	NOUN	NCFS000	Gender=Fem|Number=Sing	6	obl	_	_
+11	.	.	PUNCT	Fp	_	6	punct	_	_
+
+# sent_id = 5
+# sent_csv = ¿Cuál es la entidad financiera más prestigiosa?
+# text = ¿ Cuál es la entidad financiera más prestigiosa ?
+1	¿	¿	PUNCT	Fia	_	5	punct	_	_
+2	Cuál	cuál	PRON	PT0CS000	Gender=Neut|Number=Sing|PronType=Int	5	nsubj	_	_
+3	es	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
+4	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	entidad	entidad	NOUN	NCFS000	Gender=Fem|Number=Sing	0	root	_	_
+6	financiera	financiero	ADJ	AQ0FS0	Gender=Fem|Number=Sing	5	amod	_	_
+7	más	más	ADV	RG	_	8	advmod	_	_
+8	prestigiosa	prestigioso	ADJ	AQ0FS0	Gender=Fem|Number=Sing	5	amod	_	_
+9	?	?	PUNCT	Fit	_	5	punct	_	_
+
+# sent_id = 6
+# sent_csv = El banco puede ser de materiales sencillos como yeso o piedra y arrimarse a las paredes de las viviendas y edificios.
+# text = El banco puede ser de materiales sencillos como yeso o piedra y arrimar se a las paredes de las viviendas y edificios .
+1	El	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	banco	banco	NOUN	NCMS000	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	puede	poder	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	ser	ser	AUX	VSN0000	VerbForm=Inf	6	cop	_	_
+5	de	de	ADP	SP	AdpType=Prep	6	case	_	_
+6	materiales	material	NOUN	NCMP000	Gender=Masc|Number=Plur	3	xcomp	_	_
+7	sencillos	sencillo	ADJ	AQ0MP0	Gender=Masc|Number=Plur	6	amod	_	_
+8	como	como	SCONJ	CS	_	9	mark	_	_
+9	yeso	yeso	NOUN	NCMS000	Gender=Masc|Number=Sing	6	nmod	_	_
+10	o	o	CCONJ	CC	_	11	cc	_	_
+11	piedra	piedra	NOUN	NCFS000	Gender=Fem|Number=Sing	9	conj	_	_
+12	y	y	CCONJ	CC	_	13	cc	_	_
+13	arrimar	arrimar	VERB	VMN0000	VerbForm=Inf	3	conj	_	_
+14	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	13	obj	_	_
+15	a	a	ADP	SP	AdpType=Prep	17	case	_	_
+16	las	el	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	paredes	pared	NOUN	NCFP000	Gender=Fem|Number=Plur	13	obj	_	_
+18	de	de	ADP	SP	AdpType=Prep	20	case	_	_
+19	las	el	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	viviendas	vivienda	NOUN	NCFP000	Gender=Fem|Number=Plur	17	nmod	_	_
+21	y	y	CCONJ	CC	_	22	cc	_	_
+22	edificios	edificio	NOUN	NCMP000	Gender=Masc|Number=Plur	20	conj	_	_
+23	.	.	PUNCT	Fp	_	3	punct	_	_
+
+# sent_id = 7
+# sent_csv = El asiento puede ser de materiales sencillos como yeso o piedra y arrimarse a las paredes de las viviendas y edificios.
+# text = El asiento puede ser de materiales sencillos como yeso o piedra y arrimar se a las paredes de las viviendas y edificios .
+1	El	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	asiento	asiento	NOUN	NCMS000	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	puede	poder	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	ser	ser	AUX	VSN0000	VerbForm=Inf	6	cop	_	_
+5	de	de	ADP	SP	AdpType=Prep	6	case	_	_
+6	materiales	material	NOUN	NCMP000	Gender=Masc|Number=Plur	3	xcomp	_	_
+7	sencillos	sencillo	ADJ	AQ0MP0	Gender=Masc|Number=Plur	6	amod	_	_
+8	como	como	SCONJ	CS	_	9	mark	_	_
+9	yeso	yeso	NOUN	NCMS000	Gender=Masc|Number=Sing	6	nmod	_	_
+10	o	o	CCONJ	CC	_	11	cc	_	_
+11	piedra	piedra	NOUN	NCFS000	Gender=Fem|Number=Sing	9	conj	_	_
+12	y	y	CCONJ	CC	_	13	cc	_	_
+13	arrimar	arrimar	VERB	VMN0000	VerbForm=Inf	3	conj	_	_
+14	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	13	obj	_	_
+15	a	a	ADP	SP	AdpType=Prep	17	case	_	_
+16	las	el	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	paredes	pared	NOUN	NCFP000	Gender=Fem|Number=Plur	13	obj	_	_
+18	de	de	ADP	SP	AdpType=Prep	20	case	_	_
+19	las	el	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	viviendas	vivienda	NOUN	NCFP000	Gender=Fem|Number=Plur	17	nmod	_	_
+21	y	y	CCONJ	CC	_	22	cc	_	_
+22	edificios	edificio	NOUN	NCMP000	Gender=Masc|Number=Plur	20	conj	_	_
+23	.	.	PUNCT	Fp	_	3	punct	_	_
+
+# sent_id = 8
+# sent_csv = El cuadro puede ser de materiales sencillos como yeso o piedra y arrimarse a las paredes de las viviendas y edificios.
+# text = El cuadro puede ser de materiales sencillos como yeso o piedra y arrimar se a las paredes de las viviendas y edificios .
+1	El	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	cuadro	cuadro	NOUN	NCMS000	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	puede	poder	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	ser	ser	AUX	VSN0000	VerbForm=Inf	6	cop	_	_
+5	de	de	ADP	SP	AdpType=Prep	6	case	_	_
+6	materiales	material	NOUN	NCMP000	Gender=Masc|Number=Plur	3	xcomp	_	_
+7	sencillos	sencillo	ADJ	AQ0MP0	Gender=Masc|Number=Plur	6	amod	_	_
+8	como	como	SCONJ	CS	_	9	mark	_	_
+9	yeso	yeso	NOUN	NCMS000	Gender=Masc|Number=Sing	6	nmod	_	_
+10	o	o	CCONJ	CC	_	11	cc	_	_
+11	piedra	piedra	NOUN	NCFS000	Gender=Fem|Number=Sing	9	conj	_	_
+12	y	y	CCONJ	CC	_	13	cc	_	_
+13	arrimar	arrimar	VERB	VMN0000	VerbForm=Inf	3	conj	_	_
+14	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	13	obj	_	_
+15	a	a	ADP	SP	AdpType=Prep	17	case	_	_
+16	las	el	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	paredes	pared	NOUN	NCFP000	Gender=Fem|Number=Plur	13	obj	_	_
+18	de	de	ADP	SP	AdpType=Prep	20	case	_	_
+19	las	el	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	viviendas	vivienda	NOUN	NCFP000	Gender=Fem|Number=Plur	17	nmod	_	_
+21	y	y	CCONJ	CC	_	22	cc	_	_
+22	edificios	edificio	NOUN	NCMP000	Gender=Masc|Number=Plur	20	conj	_	_
+23	.	.	PUNCT	Fp	_	3	punct	_	_
+
+# sent_id = 9
+# sent_csv = El ayutamiento va a colocar nuevos bancos en esta plaza.
+# text = El ayutamiento va a colocar nuevos bancos en esta plaza .
+1	El	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	ayutamiento	ayutamiento	NOUN	NCMS000	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	va	ir	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	a	a	ADP	SP	AdpType=Prep	5	mark	_	_
+5	colocar	colocar	VERB	VMN0000	VerbForm=Inf	3	xcomp	_	_
+6	nuevos	nuevo	ADJ	AQ0MP0	Gender=Masc|Number=Plur	7	amod	_	_
+7	bancos	banco	NOUN	NCMP000	Gender=Masc|Number=Plur	5	obj	_	_
+8	en	en	ADP	SP	AdpType=Prep	10	case	_	_
+9	esta	este	DET	DD0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
+10	plaza	plaza	NOUN	NCFS000	Gender=Fem|Number=Sing	5	obl	_	_
+11	.	.	PUNCT	Fp	_	3	punct	_	_
+
+# sent_id = 10
+# sent_csv = Dormía casi todas las noches en un asiento del patio.
+# text = Dormía casi todas las noches en un asiento de el patio .
+1	Dormía	dormir	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	0	root	_	_
+2	casi	casi	ADV	RG	_	5	advmod	_	_
+3	todas	todo	DET	DI0FP0	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	las	el	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	noches	noche	NOUN	NCFP000	Gender=Fem|Number=Plur	1	obj	_	_
+6	en	en	ADP	SP	AdpType=Prep	8	case	_	_
+7	un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	asiento	asiento	NOUN	NCMS000	Gender=Masc|Number=Sing	1	obl	_	_
+9	de	de	ADP	SP	AdpType=Prep	11	case	_	_
+10	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	patio	patio	NOUN	NCMS000	Gender=Masc|Number=Sing	8	nmod	_	_
+12	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 11
+# sent_csv = Se detectaba el banco de sardina y se largaba la red rodeándolo.
+# text = Se detectaba el banco de sardina y se largaba la red rodeando lo .
+1	Se	se	PRON	P00CN000	_	2	obj	_	_
+2	detectaba	detectar	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	0	root	_	_
+3	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	banco	banco	NOUN	NCMS000	Gender=Masc|Number=Sing	2	nsubj	_	_
+5	de	de	ADP	SP	AdpType=Prep	6	case	_	_
+6	sardina	sardina	NOUN	NCFS000	Gender=Fem|Number=Sing	4	nmod	_	_
+7	y	y	CCONJ	CC	_	9	cc	_	_
+8	se	se	PRON	P00CN000	_	9	obj	_	_
+9	largaba	largar	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	2	conj	_	_
+10	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	red	red	NOUN	NCFS000	Gender=Fem|Number=Sing	9	nsubj	_	_
+12	rodeando	rodear	VERB	VMG0000	VerbForm=Ger	9	advcl	_	_
+13	lo	lo	PRON	PP3MSA00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+14	.	.	PUNCT	Fp	_	2	punct	_	_
+
+# sent_id = 12
+# sent_csv = Se detectaba el conjunto de sardina y se largaba la red rodeándolo.
+# text = Se detectaba el conjunto de sardina y se largaba la red rodeando lo .
+1	Se	se	PRON	P00CN000	_	2	obj	_	_
+2	detectaba	detectar	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	0	root	_	_
+3	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	conjunto	conjunto	NOUN	NCMS000	Gender=Masc|Number=Sing	2	nsubj	_	_
+5	de	de	ADP	SP	AdpType=Prep	6	case	_	_
+6	sardina	sardina	NOUN	NCFS000	Gender=Fem|Number=Sing	4	nmod	_	_
+7	y	y	CCONJ	CC	_	9	cc	_	_
+8	se	se	PRON	P00CN000	_	9	obj	_	_
+9	largaba	largar	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	2	conj	_	_
+10	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	red	red	NOUN	NCFS000	Gender=Fem|Number=Sing	9	nsubj	_	_
+12	rodeando	rodear	VERB	VMG0000	VerbForm=Ger	9	advcl	_	_
+13	lo	lo	PRON	PP3MSA00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+14	.	.	PUNCT	Fp	_	2	punct	_	_
+
+# sent_id = 13
+# sent_csv = Se detectaba el olor de sardina y se largaba la red rodeándolo.
+# text = Se detectaba el olor de sardina y se largaba la red rodeando lo .
+1	Se	se	PRON	P00CN000	_	2	obj	_	_
+2	detectaba	detectar	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	0	root	_	_
+3	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	olor	olor	NOUN	NCMS000	Gender=Masc|Number=Sing	2	nsubj	_	_
+5	de	de	ADP	SP	AdpType=Prep	6	case	_	_
+6	sardina	sardina	NOUN	NCFS000	Gender=Fem|Number=Sing	4	nmod	_	_
+7	y	y	CCONJ	CC	_	9	cc	_	_
+8	se	se	PRON	P00CN000	_	9	obj	_	_
+9	largaba	largar	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	2	conj	_	_
+10	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	red	red	NOUN	NCFS000	Gender=Fem|Number=Sing	9	nsubj	_	_
+12	rodeando	rodear	VERB	VMG0000	VerbForm=Ger	9	advcl	_	_
+13	lo	lo	PRON	PP3MSA00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+14	.	.	PUNCT	Fp	_	2	punct	_	_
+
+# sent_id = 14
+# sent_csv = Los pescadores nativos sabían por dónde se movían los mejores bancos.
+# text = Los pescadores nativos sabían por dónde se movían los mejores bancos .
+1	Los	el	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	pescadores	pescador	NOUN	NCMP000	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	nativos	nativo	ADJ	AQ0MP0	Gender=Masc|Number=Plur	2	amod	_	_
+4	sabían	saber	VERB	VMII3P0	Mood=Ind|Number=Plur|Person=3|Tense=Imp	0	root	_	_
+5	por	por	ADP	SP	AdpType=Prep	6	case	_	_
+6	dónde	dónde	PRON	PT000000	PronType=Int	4	obl	_	_
+7	se	se	PRON	P00CN000	_	8	obj	_	_
+8	movían	mover	VERB	VMII3P0	Mood=Ind|Number=Plur|Person=3|Tense=Imp	4	ccomp	_	_
+9	los	el	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	mejores	mejor	ADJ	AQ0CP0	Gender=Com|Number=Plur	11	amod	_	_
+11	bancos	banco	NOUN	NCMP000	Gender=Masc|Number=Plur	8	nsubj	_	_
+12	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 15
+# sent_csv = Había un gran grupo de peces nadando bajo el barco.
+# text = Había un gran grupo de peces nadando bajo el barco .
+1	Había	haber	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	0	root	_	_
+2	un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	gran	gran	ADJ	AQ0CS0	Gender=Com|Number=Sing	4	amod	_	_
+4	grupo	grupo	NOUN	NCMS000	Gender=Masc|Number=Sing	1	obj	_	_
+5	de	de	ADP	SP	AdpType=Prep	6	case	_	_
+6	peces	pez	NOUN	NCCP000	Gender=Com|Number=Plur	4	nmod	_	_
+7	nadando	nadar	VERB	VMG0000	VerbForm=Ger	1	advcl	_	_
+8	bajo	bajo	ADP	SP	AdpType=Prep	10	case	_	_
+9	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	barco	barco	NOUN	NCMS000	Gender=Masc|Number=Sing	7	obl	_	_
+11	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 16
+# sent_csv = Esto es fruto, como es sabido, de un profundo acuerdo social y político.
+# text = Esto es fruto , como es sabido , de un profundo acuerdo social y político .
+1	Esto	este	PRON	PD00S000	PronType=Dem	3	nsubj	_	_
+2	es	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+3	fruto	fruto	NOUN	NCMS000	Gender=Masc|Number=Sing	0	root	_	_
+4	,	,	PUNCT	Fc	_	7	punct	_	_
+5	como	como	SCONJ	CS	_	7	mark	_	_
+6	es	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux	_	_
+7	sabido	saber	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	3	advcl	_	_
+8	,	,	PUNCT	Fc	_	7	punct	_	_
+9	de	de	ADP	SP	AdpType=Prep	12	case	_	_
+10	un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	profundo	profundo	ADJ	AQ0MS0	Gender=Masc|Number=Sing	12	amod	_	_
+12	acuerdo	acuerdo	NOUN	NCMS000	Gender=Masc|Number=Sing	7	obj	_	_
+13	social	social	ADJ	AQ0CS0	Gender=Com|Number=Sing	12	amod	_	_
+14	y	y	CCONJ	CC	_	15	cc	_	_
+15	político	político	ADJ	AQ0MS0	Gender=Masc|Number=Sing	13	conj	_	_
+16	.	.	PUNCT	Fp	_	3	punct	_	_
+
+# sent_id = 17
+# sent_csv = Esto es fruto, como es sabido, de un profundo pacto social y político.
+# text = Esto es fruto , como es sabido , de un profundo pacto social y político .
+1	Esto	este	PRON	PD00S000	PronType=Dem	3	nsubj	_	_
+2	es	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+3	fruto	fruto	NOUN	NCMS000	Gender=Masc|Number=Sing	0	root	_	_
+4	,	,	PUNCT	Fc	_	7	punct	_	_
+5	como	como	SCONJ	CS	_	7	mark	_	_
+6	es	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux	_	_
+7	sabido	saber	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	3	advcl	_	_
+8	,	,	PUNCT	Fc	_	12	punct	_	_
+9	de	de	ADP	SP	AdpType=Prep	12	case	_	_
+10	un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	profundo	profundo	ADJ	AQ0MS0	Gender=Masc|Number=Sing	12	amod	_	_
+12	pacto	pacto	NOUN	NCMS000	Gender=Masc|Number=Sing	7	obj	_	_
+13	social	social	ADJ	AQ0CS0	Gender=Com|Number=Sing	12	amod	_	_
+14	y	y	CCONJ	CC	_	15	cc	_	_
+15	político	político	ADJ	AQ0MS0	Gender=Masc|Number=Sing	12	conj	_	_
+16	.	.	PUNCT	Fp	_	3	punct	_	_
+
+# sent_id = 18
+# sent_csv = Esto es fruto, como es sabido, de un profundo conflicto social y político.
+# text = Esto es fruto , como es sabido , de un profundo conflicto social y político .
+1	Esto	este	PRON	PD00S000	PronType=Dem	3	nsubj	_	_
+2	es	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+3	fruto	fruto	NOUN	NCMS000	Gender=Masc|Number=Sing	0	root	_	_
+4	,	,	PUNCT	Fc	_	7	punct	_	_
+5	como	como	SCONJ	CS	_	7	mark	_	_
+6	es	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux	_	_
+7	sabido	saber	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	3	advcl	_	_
+8	,	,	PUNCT	Fc	_	12	punct	_	_
+9	de	de	ADP	SP	AdpType=Prep	12	case	_	_
+10	un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	profundo	profundo	ADJ	AQ0MS0	Gender=Masc|Number=Sing	12	amod	_	_
+12	conflicto	conflicto	NOUN	NCMS000	Gender=Masc|Number=Sing	7	obj	_	_
+13	social	social	ADJ	AQ0CS0	Gender=Com|Number=Sing	12	amod	_	_
+14	y	y	CCONJ	CC	_	15	cc	_	_
+15	político	político	ADJ	AQ0MS0	Gender=Masc|Number=Sing	13	conj	_	_
+16	.	.	PUNCT	Fp	_	3	punct	_	_
+
+# sent_id = 19
+# sent_csv = Parece que no habrá acuerdo entre ambos partidos.
+# text = Parece que no habrá acuerdo entre ambos partidos .
+1	Parece	parecer	AUX	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	que	que	SCONJ	CS	_	4	mark	_	_
+3	no	no	ADV	RN	Polarity=Neg	4	advmod	_	_
+4	habrá	haber	VERB	VMIF3S0	Mood=Ind|Number=Sing|Person=3|Tense=Fut	1	ccomp	_	_
+5	acuerdo	acuerdo	NOUN	NCMS000	Gender=Masc|Number=Sing	4	obj	_	_
+6	entre	entre	ADP	SP	AdpType=Prep	8	case	_	_
+7	ambos	ambos	DET	DI0MP0	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	partidos	partido	NOUN	NCMP000	Gender=Masc|Number=Plur	5	nmod	_	_
+9	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 20
+# sent_csv = Hablaban de lo que podía suceder si el pacto entre las izquierdas y los burgueses se llevaba a cabo.
+# text = Hablaban de lo que podía suceder si el pacto entre las izquierdas y los burgueses se llevaba a cabo .
+1	Hablaban	hablar	VERB	VMII3P0	Mood=Ind|Number=Plur|Person=3|Tense=Imp	0	root	_	_
+2	de	de	ADP	SP	AdpType=Prep	5	mark	_	_
+3	lo	el	DET	DA00S0	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+4	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	5	nsubj	_	_
+5	podía	poder	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	1	ccomp	_	_
+6	suceder	suceder	VERB	VMN0000	VerbForm=Inf	5	xcomp	_	_
+7	si	si	SCONJ	CS	_	9	mark	_	_
+8	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	pacto	pacto	NOUN	NCMS000	Gender=Masc|Number=Sing	6	nsubj	_	_
+10	entre	entre	ADP	SP	AdpType=Prep	12	case	_	_
+11	las	el	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	izquierdas	izquierda	NOUN	NCFP000	Gender=Fem|Number=Plur	9	nmod	_	_
+13	y	y	CCONJ	CC	_	17	cc	_	_
+14	los	el	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	burgueses	burgués	NOUN	NCMP000	Gender=Masc|Number=Plur	17	nsubj	_	_
+16	se	se	PRON	P00CN000	_	17	obj	_	_
+17	llevaba	llevar	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	12	conj	_	_
+18	a	a	ADP	SP	AdpType=Prep	19	case	_	_
+19	cabo	cabo	NOUN	NCMS000	Gender=Masc|Number=Sing	17	compound	_	_
+20	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 21
+# sent_csv = Pensando en ellos me acuerdo de Martin Niemöller, aquel pastor protestante que había sido torturado.
+# text = Pensando en ellos me acuerdo de Martin_Niemöller , aquel pastor protestante que había sido torturado .
+1	Pensando	pensar	VERB	VMG0000	VerbForm=Ger	0	root	_	_
+2	en	en	ADP	SP	AdpType=Prep	3	case	_	_
+3	ellos	ellos	PRON	PP3MP000	Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+4	me	me	PRON	PP1CS000	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	obj	_	_
+5	acuerdo	acuerdo	NOUN	NCMS000	Gender=Masc|Number=Sing	1	obj	_	_
+6	de	de	ADP	SP	AdpType=Prep	7	case	_	_
+7	Martin_Niemöller	martin_niemöller	PROPN	NP00SP0	_	5	nmod	_	_
+8	,	,	PUNCT	Fc	_	5	punct	_	_
+9	aquel	aquel	DET	DD0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
+10	pastor	pastor	NOUN	NCMS000	Gender=Masc|Number=Sing	15	nsubj	_	_
+11	protestante	protestante	ADJ	AQ0CS0	Gender=Com|Number=Sing	10	amod	_	_
+12	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	15	obj	_	_
+13	había	haber	AUX	VSII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	15	aux	_	_
+14	sido	ser	AUX	VSP00SM	Gender=Masc|Number=Sing|VerbForm=Part	15	aux	_	_
+15	torturado	torturar	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	_
+16	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 22
+# sent_csv = Pensando en ellos recuerdo a Martin Niemöller, aquel pastor protestante que había sido torturado.
+# text = Pensando en ellos recuerdo a Martin_Niemöller , aquel pastor protestante que había sido torturado .
+1	Pensando	pensar	VERB	VMG0000	VerbForm=Ger	0	root	_	_
+2	en	en	ADP	SP	AdpType=Prep	3	case	_	_
+3	ellos	ellos	PRON	PP3MP000	Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+4	recuerdo	recordar	VERB	VMIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	1	conj	_	_
+5	a	a	ADP	SP	AdpType=Prep	6	case	_	_
+6	Martin_Niemöller	martin_niemöller	PROPN	NP00SP0	_	4	obj	_	_
+7	,	,	PUNCT	Fc	_	9	punct	_	_
+8	aquel	aquel	DET	DD0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	pastor	pastor	NOUN	NCMS000	Gender=Masc|Number=Sing	6	appos	_	_
+10	protestante	protestante	ADJ	AQ0CS0	Gender=Com|Number=Sing	9	amod	_	_
+11	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	13	nsubj	_	_
+12	había	haber	AUX	VSII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	13	aux	_	_
+13	sido	ser	AUX	VSP00SM	Gender=Masc|Number=Sing|VerbForm=Part	9	cop	_	_
+14	torturado	torturar	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	13	ccomp	_	_
+15	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 23
+# sent_csv = Pensando en ellos me olvido de Martin Niemöller, aquel pastor protestante que había sido torturado.
+# text = Pensando en ellos me olvido de Martin_Niemöller , aquel pastor protestante que había sido torturado .
+1	Pensando	pensar	VERB	VMG0000	VerbForm=Ger	0	root	_	_
+2	en	en	ADP	SP	AdpType=Prep	3	case	_	_
+3	ellos	ellos	PRON	PP3MP000	Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+4	me	me	PRON	PP1CS000	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	obj	_	_
+5	olvido	olvido	NOUN	NCMS000	Gender=Masc|Number=Sing	1	obj	_	_
+6	de	de	ADP	SP	AdpType=Prep	7	case	_	_
+7	Martin_Niemöller	martin_niemöller	PROPN	NP00SP0	_	5	nmod	_	_
+8	,	,	PUNCT	Fc	_	10	punct	_	_
+9	aquel	aquel	DET	DD0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
+10	pastor	pastor	NOUN	NCMS000	Gender=Masc|Number=Sing	15	nsubj	_	_
+11	protestante	protestante	ADJ	AQ0CS0	Gender=Com|Number=Sing	10	amod	_	_
+12	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	15	obj	_	_
+13	había	haber	AUX	VSII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	15	aux	_	_
+14	sido	ser	AUX	VSP00SM	Gender=Masc|Number=Sing|VerbForm=Part	15	aux	_	_
+15	torturado	torturar	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	_
+16	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 24
+# sent_csv = Siempre que me acuesto me acuerdo de él.
+# text = Siempre que me acuesto me acuerdo de él .
+1	Siempre	siempre	ADV	RG	_	4	advmod	_	_
+2	que	que	SCONJ	CS	_	4	mark	_	_
+3	me	me	PRON	PP1CS000	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	obj	_	_
+4	acuesto	acostar	VERB	VMIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+5	me	me	PRON	PP1CS000	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	obj	_	_
+6	acuerdo	acuerdo	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nsubj	_	_
+7	de	de	ADP	SP	AdpType=Prep	8	case	_	_
+8	él	él	PRON	PP3MS000	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+9	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 25
+# sent_csv = Hoy recuerdo aquella noche con mucha tristeza.
+# text = Hoy recuerdo aquella noche con mucha tristeza .
+1	Hoy	hoy	ADV	RG	_	2	advmod	_	_
+2	recuerdo	recordar	VERB	VMIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+3	aquella	aquel	DET	DD0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	noche	noche	NOUN	NCFS000	Gender=Fem|Number=Sing	2	obj	_	_
+5	con	con	ADP	SP	AdpType=Prep	7	case	_	_
+6	mucha	mucho	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	tristeza	tristeza	NOUN	NCFS000	Gender=Fem|Number=Sing	2	obl	_	_
+8	.	.	PUNCT	Fp	_	2	punct	_	_
+
+# sent_id = 26
+# sent_csv = Quiere saber si se han casado.
+# text = Quiere saber si se han casado .
+1	Quiere	querer	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	saber	saber	VERB	VMN0000	VerbForm=Inf	1	xcomp	_	_
+3	si	si	SCONJ	CS	_	6	mark	_	_
+4	se	se	PRON	P00CN000	_	6	obj	_	_
+5	han	haber	AUX	VSIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	aux	_	_
+6	casado	casar	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	1	advcl	_	_
+7	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 27
+# sent_csv = Quiere conocer si se han casado.
+# text = Quiere conocer si se han casado .
+1	Quiere	querer	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	conocer	conocer	VERB	VMN0000	VerbForm=Inf	1	xcomp	_	_
+3	si	si	SCONJ	CS	_	6	mark	_	_
+4	se	se	PRON	P00CN000	_	6	obj	_	_
+5	han	haber	AUX	VSIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	aux	_	_
+6	casado	casar	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	2	advcl	_	_
+7	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 28
+# sent_csv = Quiere omitir si se han casado.
+# text = Quiere omitir si se han casado .
+1	Quiere	querer	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	omitir	omitir	VERB	VMN0000	VerbForm=Inf	1	xcomp	_	_
+3	si	si	SCONJ	CS	_	6	mark	_	_
+4	se	se	PRON	P00CN000	_	6	obj	_	_
+5	han	haber	AUX	VSIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	aux	_	_
+6	casado	casar	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	2	advcl	_	_
+7	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 29
+# sent_csv = No quiero ni saber lo que le han dicho!
+# text = No quiero ni saber lo que le han dicho !
+1	No	no	ADV	RN	Polarity=Neg	2	advmod	_	_
+2	quiero	querer	VERB	VMIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+3	ni	ni	ADV	RN	Polarity=Neg	4	advmod	_	_
+4	saber	saber	VERB	VMN0000	VerbForm=Inf	2	xcomp	_	_
+5	lo	el	DET	DA00S0	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	9	nsubj	_	_
+7	le	le	PRON	PP3CSD00	Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+8	han	haber	AUX	VSIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	9	aux	_	_
+9	dicho	decir	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	4	ccomp	_	_
+10	!	!	PUNCT	Fat	_	2	punct	_	_
+
+# sent_id = 30
+# sent_csv = Le gustaría conocer mejor a sus adversarios.
+# text = Le gustaría conocer mejor a sus adversarios .
+1	Le	le	PRON	PP3CSD00	Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gustaría	gustar	VERB	VMIC3S0	Mood=Cnd,Ind|Number=Sing|Person=3	0	root	_	_
+3	conocer	conocer	VERB	VMN0000	VerbForm=Inf	2	csubj	_	_
+4	mejor	mejor	ADV	RG	_	3	advmod	_	_
+5	a	a	ADP	SP	AdpType=Prep	7	case	_	_
+6	sus	su	DET	DP3CPN	Gender=Masc|Number=Plur|Person=3|Poss=Yes	7	det	_	_
+7	adversarios	adversario	NOUN	NCMP000	Gender=Masc|Number=Plur	3	obj	_	_
+8	.	.	PUNCT	Fp	_	2	punct	_	_
+
+# sent_id = 31
+# sent_csv = Esta sopa tendría que saber más a ajo.
+# text = Esta sopa tendría que saber más a ajo .
+1	Esta	este	DET	DD0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	sopa	sopa	NOUN	NCFS000	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tendría	tener	VERB	VMIC3S0	Mood=Cnd,Ind|Number=Sing|Person=3	0	root	_	_
+4	que	que	SCONJ	CS	_	5	cc	_	_
+5	saber	saber	VERB	VMN0000	VerbForm=Inf	3	conj	_	_
+6	más	más	ADV	RG	_	5	advmod	_	_
+7	a	a	ADP	SP	AdpType=Prep	8	case	_	_
+8	ajo	ajo	NOUN	NCMS000	Gender=Masc|Number=Sing	5	obj	_	_
+9	.	.	PUNCT	Fp	_	3	punct	_	_
+
+# sent_id = 32
+# sent_csv = La pizza no debería saber tanto a piña.
+# text = La pizza no debería saber tanto a piña .
+1	La	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	pizza	pizza	NOUN	NCFS000	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	no	no	ADV	RN	Polarity=Neg	4	advmod	_	_
+4	debería	deber	VERB	VMIC3S0	Mood=Cnd,Ind|Number=Sing|Person=3	0	root	_	_
+5	saber	saber	VERB	VMN0000	VerbForm=Inf	4	xcomp	_	_
+6	tanto	tanto	ADV	RG	_	8	cc	_	_
+7	a	a	ADP	SP	AdpType=Prep	8	case	_	_
+8	piña	piña	NOUN	NCFS000	Gender=Fem|Number=Sing	5	obj	_	_
+9	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 33
+# sent_csv = Esta sopa tendría que oler más a ajo.
+# text = Esta sopa tendría que oler más a ajo .
+1	Esta	este	DET	DD0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	sopa	sopa	NOUN	NCFS000	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tendría	tener	VERB	VMIC3S0	Mood=Cnd,Ind|Number=Sing|Person=3	0	root	_	_
+4	que	que	SCONJ	CS	_	5	cc	_	_
+5	oler	oler	VERB	VMN0000	VerbForm=Inf	3	conj	_	_
+6	más	más	ADV	RG	_	5	advmod	_	_
+7	a	a	ADP	SP	AdpType=Prep	8	case	_	_
+8	ajo	ajo	NOUN	NCMS000	Gender=Masc|Number=Sing	5	obl	_	_
+9	.	.	PUNCT	Fp	_	3	punct	_	_
+
+# sent_id = 34
+# sent_csv = Más importante todavía será el saber hermenéutico en la cultura judía precristiana.
+# text = Más importante todavía será el saber hermenéutico en la cultura judía precristiana .
+1	Más	más	ADV	RG	_	2	advmod	_	_
+2	importante	importante	ADJ	AQ0CS0	Gender=Com|Number=Sing	6	nsubj	_	_
+3	todavía	todavía	ADV	RG	_	6	advmod	_	_
+4	será	ser	AUX	VSIF3S0	Mood=Ind|Number=Sing|Person=3|Tense=Fut	6	cop	_	_
+5	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	saber	saber	NOUN	NCMS000	Gender=Masc|Number=Sing	0	root	_	_
+7	hermenéutico	hermenéutico	ADJ	AQ0MS0	Gender=Masc|Number=Sing	6	amod	_	_
+8	en	en	ADP	SP	AdpType=Prep	10	case	_	_
+9	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	cultura	cultura	NOUN	NCFS000	Gender=Fem|Number=Sing	7	nmod	_	_
+11	judía	judío	ADJ	AQ0FS0	Gender=Fem|Number=Sing	10	amod	_	_
+12	precristiana	precristiano	ADJ	AQ0FS0	Gender=Fem|Number=Sing	10	amod	_	_
+13	.	.	PUNCT	Fp	_	6	punct	_	_
+
+# sent_id = 35
+# sent_csv = Más importante todavía será el conocimiento hermenéutico en la cultura judía precristiana.
+# text = Más importante todavía será el conocimiento hermenéutico en la cultura judía precristiana .
+1	Más	más	ADV	RG	_	2	advmod	_	_
+2	importante	importante	ADJ	AQ0CS0	Gender=Com|Number=Sing	6	nsubj	_	_
+3	todavía	todavía	ADV	RG	_	6	advmod	_	_
+4	será	ser	AUX	VSIF3S0	Mood=Ind|Number=Sing|Person=3|Tense=Fut	6	cop	_	_
+5	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	conocimiento	conocimiento	NOUN	NCMS000	Gender=Masc|Number=Sing	0	root	_	_
+7	hermenéutico	hermenéutico	ADJ	AQ0MS0	Gender=Masc|Number=Sing	6	amod	_	_
+8	en	en	ADP	SP	AdpType=Prep	10	case	_	_
+9	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	cultura	cultura	NOUN	NCFS000	Gender=Fem|Number=Sing	7	nmod	_	_
+11	judía	judío	ADJ	AQ0FS0	Gender=Fem|Number=Sing	10	amod	_	_
+12	precristiana	precristiano	ADJ	AQ0FS0	Gender=Fem|Number=Sing	10	amod	_	_
+13	.	.	PUNCT	Fp	_	6	punct	_	_
+
+# sent_id = 36
+# sent_csv = Más importante todavía será el pasado hermenéutico en la cultura judía precristiana.
+# text = Más importante todavía será el pasado hermenéutico en la cultura judía precristiana .
+1	Más	más	ADV	RG	_	2	advmod	_	_
+2	importante	importante	ADJ	AQ0CS0	Gender=Com|Number=Sing	6	nsubj	_	_
+3	todavía	todavía	ADV	RG	_	6	advmod	_	_
+4	será	ser	AUX	VSIF3S0	Mood=Ind|Number=Sing|Person=3|Tense=Fut	6	cop	_	_
+5	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	pasado	pasado	NOUN	NCMS000	Gender=Masc|Number=Sing	0	root	_	_
+7	hermenéutico	hermenéutico	ADJ	AQ0MS0	Gender=Masc|Number=Sing	6	amod	_	_
+8	en	en	ADP	SP	AdpType=Prep	10	case	_	_
+9	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	cultura	cultura	NOUN	NCFS000	Gender=Fem|Number=Sing	7	nmod	_	_
+11	judía	judío	ADJ	AQ0FS0	Gender=Fem|Number=Sing	10	amod	_	_
+12	precristiana	precristiano	ADJ	AQ0FS0	Gender=Fem|Number=Sing	10	amod	_	_
+13	.	.	PUNCT	Fp	_	6	punct	_	_
+
+# sent_id = 37
+# sent_csv = Como se suele decir, el saber no ocupa lugar.
+# text = Como se suele decir , el saber no ocupa lugar .
+1	Como	como	SCONJ	CS	_	3	mark	_	_
+2	se	se	PRON	P00CN000	_	3	expl:pass	_	_
+3	suele	soler	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	advcl	_	_
+4	decir	decir	VERB	VMN0000	VerbForm=Inf	3	xcomp	_	_
+5	,	,	PUNCT	Fc	_	3	punct	_	_
+6	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	saber	saber	NOUN	NCMS000	Gender=Masc|Number=Sing	9	nsubj	_	_
+8	no	no	ADV	RN	Polarity=Neg	9	advmod	_	_
+9	ocupa	ocupar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+10	lugar	lugar	NOUN	NCMS000	Gender=Masc|Number=Sing	9	obj	_	_
+11	.	.	PUNCT	Fp	_	9	punct	_	_
+
+# sent_id = 38
+# sent_csv = La sabiduría no se valora como se merece.
+# text = La sabiduría no se valora como se merece .
+1	La	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	sabiduría	sabiduría	NOUN	NCFS000	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	no	no	ADV	RN	Polarity=Neg	5	advmod	_	_
+4	se	se	PRON	P00CN000	_	5	obj	_	_
+5	valora	valorar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+6	como	como	SCONJ	CS	_	8	mark	_	_
+7	se	se	PRON	P00CN000	_	8	obj	_	_
+8	merece	merecer	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	advcl	_	_
+9	.	.	PUNCT	Fp	_	5	punct	_	_
+
+# sent_id = 39
+# sent_csv = Le colocó el anillo en el anular.
+# text = Le colocó el anillo en el anular .
+1	Le	le	PRON	PP3CSD00	Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	colocó	colocar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	anillo	anillo	NOUN	NCMS000	Gender=Masc|Number=Sing	2	obj	_	_
+5	en	en	ADP	SP	AdpType=Prep	7	case	_	_
+6	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	anular	anular	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nmod	_	_
+8	.	.	PUNCT	Fp	_	2	punct	_	_
+
+# sent_id = 40
+# sent_csv = El anular suele ser el segundo dedo más largo.
+# text = El anular suele ser el segundo dedo más largo .
+1	El	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	anular	anular	NOUN	NCMS000	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	suele	soler	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	ser	ser	AUX	VSN0000	VerbForm=Inf	7	cop	_	_
+5	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	segundo	2	NUM	AO0MS00	NumType=Ord	7	nummod	_	_
+7	dedo	dedo	NOUN	NCMS000	Gender=Masc|Number=Sing	3	xcomp	_	_
+8	más	más	ADV	RG	_	9	advmod	_	_
+9	largo	largo	ADJ	AQ0MS0	Gender=Masc|Number=Sing	7	amod	_	_
+10	.	.	PUNCT	Fp	_	3	punct	_	_
+
+# sent_id = 41
+# sent_csv = Le colocó el anillo en el corazón.
+# text = Le colocó el anillo en el corazón .
+1	Le	le	PRON	PP3CSD00	Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	colocó	colocar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	anillo	anillo	NOUN	NCMS000	Gender=Masc|Number=Sing	2	obj	_	_
+5	en	en	ADP	SP	AdpType=Prep	7	case	_	_
+6	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	corazón	corazón	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nmod	_	_
+8	.	.	PUNCT	Fp	_	2	punct	_	_
+
+# sent_id = 42
+# sent_csv = ¿Cómo puedo anular el contrato y de cuánto tiempo dispongo para darme de baja?
+# text = ¿ Cómo puedo anular el contrato y de cuánto tiempo dispongo para dar me de baja ?
+1	¿	¿	PUNCT	Fia	_	3	punct	_	_
+2	Cómo	cómo	PRON	PT000000	PronType=Int	3	obl	_	_
+3	puedo	poder	VERB	VMIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+4	anular	anular	VERB	VMN0000	VerbForm=Inf	3	csubj	_	_
+5	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	contrato	contrato	NOUN	NCMS000	Gender=Masc|Number=Sing	4	obj	_	_
+7	y	y	CCONJ	CC	_	11	cc	_	_
+8	de	de	ADP	SP	AdpType=Prep	10	case	_	_
+9	cuánto	cuánto	DET	DT0MS0	Gender=Masc|Number=Sing|PronType=Int	10	det	_	_
+10	tiempo	tiempo	NOUN	NCMS000	Gender=Masc|Number=Sing	11	obl	_	_
+11	dispongo	disponer	VERB	VMIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	conj	_	_
+12	para	para	ADP	SP	AdpType=Prep	13	mark	_	_
+13	dar	dar	VERB	VMN0000	VerbForm=Inf	11	advcl	_	_
+14	me	me	PRON	PP1CS000	Gender=Com|Number=Sing|Person=1|PronType=Prs	13	obj	_	_
+15	de	de	ADP	SP	AdpType=Prep	16	case	_	_
+16	baja	baja	NOUN	NCFS000	Gender=Fem|Number=Sing	13	obj	_	_
+17	?	?	PUNCT	Fit	_	3	punct	_	_
+
+# sent_id = 43
+# sent_csv = ¿Cómo puedo cancelar el contrato y de cuánto tiempo dispongo para darme de baja?
+# text = ¿ Cómo puedo cancelar el contrato y de cuánto tiempo dispongo para dar me de baja ?
+1	¿	¿	PUNCT	Fia	_	3	punct	_	_
+2	Cómo	cómo	PRON	PT000000	PronType=Int	3	nsubj	_	_
+3	puedo	poder	VERB	VMIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+4	cancelar	cancelar	VERB	VMN0000	VerbForm=Inf	3	xcomp	_	_
+5	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	contrato	contrato	NOUN	NCMS000	Gender=Masc|Number=Sing	4	obj	_	_
+7	y	y	CCONJ	CC	_	11	cc	_	_
+8	de	de	ADP	SP	AdpType=Prep	10	case	_	_
+9	cuánto	cuánto	DET	DT0MS0	Gender=Masc|Number=Sing|PronType=Int	10	det	_	_
+10	tiempo	tiempo	NOUN	NCMS000	Gender=Masc|Number=Sing	11	obl	_	_
+11	dispongo	disponer	VERB	VMIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	conj	_	_
+12	para	para	ADP	SP	AdpType=Prep	13	mark	_	_
+13	dar	dar	VERB	VMN0000	VerbForm=Inf	11	advcl	_	_
+14	me	me	PRON	PP1CS000	Gender=Com|Number=Sing|Person=1|PronType=Prs	13	obj	_	_
+15	de	de	ADP	SP	AdpType=Prep	16	case	_	_
+16	baja	baja	NOUN	NCFS000	Gender=Fem|Number=Sing	13	obj	_	_
+17	?	?	PUNCT	Fit	_	3	punct	_	_
+
+# sent_id = 44
+# sent_csv = ¿Cómo puedo formalizar el contrato y de cuánto tiempo dispongo para darme de baja?
+# text = ¿ Cómo puedo formalizar el contrato y de cuánto tiempo dispongo para dar me de baja ?
+1	¿	¿	PUNCT	Fia	_	3	punct	_	_
+2	Cómo	cómo	PRON	PT000000	PronType=Int	3	nsubj	_	_
+3	puedo	poder	VERB	VMIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+4	formalizar	formalizar	VERB	VMN0000	VerbForm=Inf	3	xcomp	_	_
+5	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	contrato	contrato	NOUN	NCMS000	Gender=Masc|Number=Sing	4	obj	_	_
+7	y	y	CCONJ	CC	_	11	cc	_	_
+8	de	de	ADP	SP	AdpType=Prep	10	case	_	_
+9	cuánto	cuánto	DET	DT0MS0	Gender=Masc|Number=Sing|PronType=Int	10	det	_	_
+10	tiempo	tiempo	NOUN	NCMS000	Gender=Masc|Number=Sing	11	obl	_	_
+11	dispongo	disponer	VERB	VMIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	conj	_	_
+12	para	para	ADP	SP	AdpType=Prep	13	mark	_	_
+13	dar	dar	VERB	VMN0000	VerbForm=Inf	11	advcl	_	_
+14	me	me	PRON	PP1CS000	Gender=Com|Number=Sing|Person=1|PronType=Prs	13	obj	_	_
+15	de	de	ADP	SP	AdpType=Prep	16	case	_	_
+16	baja	baja	NOUN	NCFS000	Gender=Fem|Number=Sing	13	obj	_	_
+17	?	?	PUNCT	Fit	_	3	punct	_	_
+
+# sent_id = 45
+# sent_csv = El gobierno debería anular esta ley de inmediato.
+# text = El gobierno debería anular esta ley de inmediato .
+1	El	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	gobierno	gobierno	NOUN	NCMS000	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	debería	deber	VERB	VMIC3S0	Mood=Cnd,Ind|Number=Sing|Person=3	0	root	_	_
+4	anular	anular	VERB	VMN0000	VerbForm=Inf	3	xcomp	_	_
+5	esta	este	DET	DD0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+6	ley	ley	NOUN	NCFS000	Gender=Fem|Number=Sing	4	obj	_	_
+7	de	de	ADP	SP	AdpType=Prep	8	case	_	_
+8	inmediato	inmediato	ADJ	AQ0MS0	Gender=Masc|Number=Sing	6	amod	_	_
+9	.	.	PUNCT	Fp	_	3	punct	_	_
+
+# sent_id = 46
+# sent_csv = A medio camino de Karlsruhe decidí cancelar mi viaje a Toulouse.
+# text = A medio camino de Karlsruhe decidí cancelar mi viaje a Toulouse .
+1	A	a	ADP	SP	AdpType=Prep	3	case	_	_
+2	medio	medio	ADJ	AQ0MS0	Gender=Masc|Number=Sing	3	amod	_	_
+3	camino	camino	NOUN	NCMS000	Gender=Masc|Number=Sing	6	obl	_	_
+4	de	de	ADP	SP	AdpType=Prep	5	case	_	_
+5	Karlsruhe	karlsruhe	PROPN	NP00G00	_	3	nmod	_	_
+6	decidí	decidir	VERB	VMIS1S0	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+7	cancelar	cancelar	VERB	VMN0000	VerbForm=Inf	6	xcomp	_	_
+8	mi	mi	DET	DP1CSS	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	9	det	_	_
+9	viaje	viaje	NOUN	NCMS000	Gender=Masc|Number=Sing	7	obj	_	_
+10	a	a	ADP	SP	AdpType=Prep	11	case	_	_
+11	Toulouse	toulouse	PROPN	NP00G00	_	9	nmod	_	_
+12	.	.	PUNCT	Fp	_	6	punct	_	_
+
+# sent_id = 47
+# sent_csv = Este artículo le ayudará a obtener información sobre cómo organizar y usar archivos y carpetas en el equipo.
+# text = Este artículo le ayudará a obtener información sobre cómo organizar y usar archivos y carpetas en el equipo .
+1	Este	este	DET	DD0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	artículo	artículo	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	le	le	PRON	PP3CSD00	Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	ayudará	ayudar	VERB	VMIF3S0	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+5	a	a	ADP	SP	AdpType=Prep	6	mark	_	_
+6	obtener	obtener	VERB	VMN0000	VerbForm=Inf	4	xcomp	_	_
+7	información	información	NOUN	NCFS000	Gender=Fem|Number=Sing	6	obj	_	_
+8	sobre	sobre	ADP	SP	AdpType=Prep	10	mark	_	_
+9	cómo	cómo	PRON	PT000000	PronType=Int	10	obl	_	_
+10	organizar	organizar	VERB	VMN0000	VerbForm=Inf	7	acl	_	_
+11	y	y	CCONJ	CC	_	12	cc	_	_
+12	usar	usar	VERB	VMN0000	VerbForm=Inf	10	conj	_	_
+13	archivos	archivo	NOUN	NCMP000	Gender=Masc|Number=Plur	12	obj	_	_
+14	y	y	CCONJ	CC	_	15	cc	_	_
+15	carpetas	carpeta	NOUN	NCFP000	Gender=Fem|Number=Plur	13	conj	_	_
+16	en	en	ADP	SP	AdpType=Prep	18	case	_	_
+17	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	equipo	equipo	NOUN	NCMS000	Gender=Masc|Number=Sing	15	nmod	_	_
+19	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 48
+# sent_csv = Este documento le ayudará a obtener información sobre cómo organizar y usar archivos y carpetas en el equipo.
+# text = Este documento le ayudará a obtener información sobre cómo organizar y usar archivos y carpetas en el equipo .
+1	Este	este	DET	DD0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	documento	documento	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	le	le	PRON	PP3CSD00	Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+4	ayudará	ayudar	VERB	VMIF3S0	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+5	a	a	ADP	SP	AdpType=Prep	6	mark	_	_
+6	obtener	obtener	VERB	VMN0000	VerbForm=Inf	4	xcomp	_	_
+7	información	información	NOUN	NCFS000	Gender=Fem|Number=Sing	6	obj	_	_
+8	sobre	sobre	ADP	SP	AdpType=Prep	10	mark	_	_
+9	cómo	cómo	PRON	PT000000	PronType=Int	10	obl	_	_
+10	organizar	organizar	VERB	VMN0000	VerbForm=Inf	7	acl	_	_
+11	y	y	CCONJ	CC	_	12	cc	_	_
+12	usar	usar	VERB	VMN0000	VerbForm=Inf	10	conj	_	_
+13	archivos	archivo	NOUN	NCMP000	Gender=Masc|Number=Plur	12	obj	_	_
+14	y	y	CCONJ	CC	_	15	cc	_	_
+15	carpetas	carpeta	NOUN	NCFP000	Gender=Fem|Number=Plur	13	conj	_	_
+16	en	en	ADP	SP	AdpType=Prep	18	case	_	_
+17	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	equipo	equipo	NOUN	NCMS000	Gender=Masc|Number=Sing	15	nmod	_	_
+19	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 49
+# sent_csv = Este vídeo le ayudará a obtener información sobre cómo organizar y usar archivos y carpetas en el equipo.
+# text = Este vídeo le ayudará a obtener información sobre cómo organizar y usar archivos y carpetas en el equipo .
+1	Este	este	DET	DD0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	vídeo	vídeo	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	le	le	PRON	PP3CSD00	Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	ayudará	ayudar	VERB	VMIF3S0	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+5	a	a	ADP	SP	AdpType=Prep	6	mark	_	_
+6	obtener	obtener	VERB	VMN0000	VerbForm=Inf	4	xcomp	_	_
+7	información	información	NOUN	NCFS000	Gender=Fem|Number=Sing	6	obj	_	_
+8	sobre	sobre	ADP	SP	AdpType=Prep	10	mark	_	_
+9	cómo	cómo	PRON	PT000000	PronType=Int	10	obl	_	_
+10	organizar	organizar	VERB	VMN0000	VerbForm=Inf	7	acl	_	_
+11	y	y	CCONJ	CC	_	12	cc	_	_
+12	usar	usar	VERB	VMN0000	VerbForm=Inf	10	conj	_	_
+13	archivos	archivo	NOUN	NCMP000	Gender=Masc|Number=Plur	12	obj	_	_
+14	y	y	CCONJ	CC	_	15	cc	_	_
+15	carpetas	carpeta	NOUN	NCFP000	Gender=Fem|Number=Plur	13	conj	_	_
+16	en	en	ADP	SP	AdpType=Prep	18	case	_	_
+17	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	equipo	equipo	NOUN	NCMS000	Gender=Masc|Number=Sing	15	nmod	_	_
+19	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 50
+# sent_csv = El artículo ha sido publicado en varias páginas web.
+# text = El artículo ha sido publicado en varias páginas web .
+1	El	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	artículo	artículo	NOUN	NCMS000	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	ha	haber	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	_
+4	sido	ser	AUX	VSP00SM	Gender=Masc|Number=Sing|VerbForm=Part	5	aux	_	_
+5	publicado	publicar	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+6	en	en	ADP	SP	AdpType=Prep	8	case	_	_
+7	varias	varios	DET	DI0FP0	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	páginas	página	NOUN	NCFP000	Gender=Fem|Number=Plur	5	obl	_	_
+9	web	web	ADJ	AQ0CN0	_	8	amod	_	_
+10	.	.	PUNCT	Fp	_	5	punct	_	_
+
+# sent_id = 51
+# sent_csv = El texto que has publicado en el periódico es realmente bueno.
+# text = El texto que has publicado en el periódico es realmente bueno .
+1	El	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	texto	texto	NOUN	NCMS000	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	5	obj	_	_
+4	has	haber	AUX	VSIP2S0	Mood=Ind|Number=Sing|Person=2|Tense=Pres	5	aux	_	_
+5	publicado	publicar	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	11	csubj	_	_
+6	en	en	ADP	SP	AdpType=Prep	8	case	_	_
+7	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	periódico	periódico	NOUN	NCMS000	Gender=Masc|Number=Sing	5	obl	_	_
+9	es	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	cop	_	_
+10	realmente	realmente	ADV	RG	_	11	advmod	_	_
+11	bueno	bueno	ADJ	AQ0MS0	Gender=Masc|Number=Sing	0	root	_	_
+12	.	.	PUNCT	Fp	_	11	punct	_	_
+
+# sent_id = 52
+# sent_csv = Son distribuidores y vendedores al por mayor de artículos de regalo y souvenir.
+# text = Son distribuidores y vendedores a el por mayor de artículos de regalo y souvenir .
+1	Son	ser	AUX	VSIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	cop	_	_
+2	distribuidores	distribuidor	ADJ	AQ0MP0	Gender=Masc|Number=Plur	0	root	_	_
+3	y	y	CCONJ	CC	_	4	cc	_	_
+4	vendedores	vendedor	NOUN	NCMP000	Gender=Masc|Number=Plur	2	conj	_	_
+5	a	a	ADP	SP	AdpType=Prep	6	case	_	_
+6	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+7	por	por	ADP	SP	AdpType=Prep	6	case	_	_
+8	mayor	mayor	ADJ	AQ0CS0	Gender=Com|Number=Sing	6	advmod	_	_
+9	de	de	ADP	SP	AdpType=Prep	10	case	_	_
+10	artículos	artículo	NOUN	NCMP000	Gender=Masc|Number=Plur	8	nmod	_	_
+11	de	de	ADP	SP	AdpType=Prep	12	case	_	_
+12	regalo	regalo	NOUN	NCMS000	Gender=Masc|Number=Sing	10	nmod	_	_
+13	y	y	CCONJ	CC	_	14	cc	_	_
+14	souvenir	souvenir	VERB	VMN0000	VerbForm=Inf	8	conj	_	_
+15	.	.	PUNCT	Fp	_	2	punct	_	_
+
+# sent_id = 53
+# sent_csv = Son distribuidores y vendedores al por mayor de productos de regalo y souvenir.
+# text = Son distribuidores y vendedores a el por mayor de productos de regalo y souvenir .
+1	Son	ser	AUX	VSIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	cop	_	_
+2	distribuidores	distribuidor	ADJ	AQ0MP0	Gender=Masc|Number=Plur	0	root	_	_
+3	y	y	CCONJ	CC	_	4	cc	_	_
+4	vendedores	vendedor	NOUN	NCMP000	Gender=Masc|Number=Plur	2	conj	_	_
+5	a	a	ADP	SP	AdpType=Prep	6	case	_	_
+6	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+7	por	por	ADP	SP	AdpType=Prep	6	case	_	_
+8	mayor	mayor	ADJ	AQ0CS0	Gender=Com|Number=Sing	10	amod	_	_
+9	de	de	ADP	SP	AdpType=Prep	10	case	_	_
+10	productos	producto	NOUN	NCMP000	Gender=Masc|Number=Plur	6	nmod	_	_
+11	de	de	ADP	SP	AdpType=Prep	12	case	_	_
+12	regalo	regalo	NOUN	NCMS000	Gender=Masc|Number=Sing	10	nmod	_	_
+13	y	y	CCONJ	CC	_	14	cc	_	_
+14	souvenir	souvenir	VERB	VMN0000	VerbForm=Inf	2	conj	_	_
+15	.	.	PUNCT	Fp	_	2	punct	_	_
+
+# sent_id = 54
+# sent_csv = Son distribuidores y vendedores al por mayor de coches de regalo y souvenir.
+# text = Son distribuidores y vendedores a el por mayor de coches de regalo y souvenir .
+1	Son	ser	AUX	VSIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	cop	_	_
+2	distribuidores	distribuidor	ADJ	AQ0MP0	Gender=Masc|Number=Plur	0	root	_	_
+3	y	y	CCONJ	CC	_	4	cc	_	_
+4	vendedores	vendedor	NOUN	NCMP000	Gender=Masc|Number=Plur	2	conj	_	_
+5	a	a	ADP	SP	AdpType=Prep	6	case	_	_
+6	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+7	por	por	ADP	SP	AdpType=Prep	6	case	_	_
+8	mayor	mayor	ADJ	AQ0CS0	Gender=Com|Number=Sing	6	advmod	_	_
+9	de	de	ADP	SP	AdpType=Prep	10	case	_	_
+10	coches	coche	NOUN	NCMP000	Gender=Masc|Number=Plur	8	nmod	_	_
+11	de	de	ADP	SP	AdpType=Prep	12	case	_	_
+12	regalo	regalo	NOUN	NCMS000	Gender=Masc|Number=Sing	10	nmod	_	_
+13	y	y	CCONJ	CC	_	14	cc	_	_
+14	souvenir	souvenir	VERB	VMN0000	VerbForm=Inf	8	conj	_	_
+15	.	.	PUNCT	Fp	_	2	punct	_	_
+
+# sent_id = 55
+# sent_csv = La tienda tiene una gran variedad de artículos antiguos y contemporáneos.
+# text = La tienda tiene una gran variedad de artículos antiguos y contemporáneos .
+1	La	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	tienda	tienda	NOUN	NCFS000	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	una	uno	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	gran	gran	ADJ	AQ0CS0	Gender=Com|Number=Sing	6	amod	_	_
+6	variedad	variedad	NOUN	NCFS000	Gender=Fem|Number=Sing	3	obj	_	_
+7	de	de	ADP	SP	AdpType=Prep	8	case	_	_
+8	artículos	artículo	NOUN	NCMP000	Gender=Masc|Number=Plur	6	nmod	_	_
+9	antiguos	antiguo	ADJ	AQ0MP0	Gender=Masc|Number=Plur	8	amod	_	_
+10	y	y	CCONJ	CC	_	11	cc	_	_
+11	contemporáneos	contemporáneo	ADJ	AQ0MP0	Gender=Masc|Number=Plur	9	conj	_	_
+12	.	.	PUNCT	Fp	_	3	punct	_	_
+
+# sent_id = 56
+# sent_csv = El negocio se basa en la venta de objetos de regalo.
+# text = El negocio se basa en la venta de objetos de regalo .
+1	El	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	negocio	negocio	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	se	se	PRON	P00CN000	_	4	obj	_	_
+4	basa	basar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	en	en	ADP	SP	AdpType=Prep	7	case	_	_
+6	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	venta	venta	NOUN	NCFS000	Gender=Fem|Number=Sing	4	obj	_	_
+8	de	de	ADP	SP	AdpType=Prep	9	case	_	_
+9	objetos	objeto	NOUN	NCMP000	Gender=Masc|Number=Plur	7	nmod	_	_
+10	de	de	ADP	SP	AdpType=Prep	11	case	_	_
+11	regalo	regalo	NOUN	NCMS000	Gender=Masc|Number=Sing	7	nmod	_	_
+12	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 57
+# sent_csv = Deja una vela a mano porque van a cortar la luz.
+# text = Deja una vela a mano porque van a cortar la luz .
+1	Deja	dejar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	una	uno	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	vela	vela	NOUN	NCFS000	Gender=Fem|Number=Sing	1	obj	_	_
+4	a	a	ADP	SP	AdpType=Prep	5	case	_	_
+5	mano	mano	NOUN	NCFS000	Gender=Fem|Number=Sing	1	obj	_	_
+6	porque	porque	SCONJ	CS	_	7	mark	_	_
+7	van	ir	VERB	VMIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	1	advcl	_	_
+8	a	a	ADP	SP	AdpType=Prep	9	mark	_	_
+9	cortar	cortar	VERB	VMN0000	VerbForm=Inf	7	xcomp	_	_
+10	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	luz	luz	NOUN	NCFS000	Gender=Fem|Number=Sing	9	obj	_	_
+12	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 58
+# sent_csv = Deja una candela a mano porque van a cortar la luz.
+# text = Deja una candela a mano porque van a cortar la luz .
+1	Deja	dejar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	una	uno	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	candela	candela	NOUN	NCFS000	Gender=Fem|Number=Sing	1	obj	_	_
+4	a	a	ADP	SP	AdpType=Prep	5	case	_	_
+5	mano	mano	NOUN	NCFS000	Gender=Fem|Number=Sing	1	obj	_	_
+6	porque	porque	SCONJ	CS	_	7	mark	_	_
+7	van	ir	VERB	VMIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	1	advcl	_	_
+8	a	a	ADP	SP	AdpType=Prep	9	mark	_	_
+9	cortar	cortar	VERB	VMN0000	VerbForm=Inf	7	xcomp	_	_
+10	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	luz	luz	NOUN	NCFS000	Gender=Fem|Number=Sing	9	obj	_	_
+12	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 59
+# sent_csv = Deja una tijera a mano porque van a cortar la luz.
+# text = Deja una tijera a mano porque van a cortar la luz .
+1	Deja	dejar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	una	uno	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	tijera	tijera	NOUN	NCFS000	Gender=Fem|Number=Sing	1	obj	_	_
+4	a	a	ADP	SP	AdpType=Prep	5	case	_	_
+5	mano	mano	NOUN	NCFS000	Gender=Fem|Number=Sing	1	obj	_	_
+6	porque	porque	SCONJ	CS	_	7	mark	_	_
+7	van	ir	VERB	VMIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	1	advcl	_	_
+8	a	a	ADP	SP	AdpType=Prep	9	mark	_	_
+9	cortar	cortar	VERB	VMN0000	VerbForm=Inf	7	xcomp	_	_
+10	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	luz	luz	NOUN	NCFS000	Gender=Fem|Number=Sing	9	obj	_	_
+12	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 60
+# sent_csv = Le han llevado dos velas al cementerio.
+# text = Le han llevado dos velas a el cementerio .
+1	Le	le	PRON	PP3CSD00	Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+2	han	haber	AUX	VSIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	aux	_	_
+3	llevado	llevar	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	dos	2	NUM	Z	NumType=Card	5	nummod	_	_
+5	velas	vela	NOUN	NCFP000	Gender=Fem|Number=Plur	3	obj	_	_
+6	a	a	ADP	SP	AdpType=Prep	8	case	_	_
+7	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	cementerio	cementerio	NOUN	NCMS000	Gender=Masc|Number=Sing	3	obj	_	_
+9	.	.	PUNCT	Fp	_	3	punct	_	_
+
+# sent_id = 61
+# sent_csv = Siguiendo las instrucciones del negrito encendió la candela y entrando en la cueva se puso en marcha.
+# text = Siguiendo las instrucciones de el negrito encendió la candela y entrando en la cueva se puso en marcha .
+1	Siguiendo	seguir	VERB	VMG0000	VerbForm=Ger	7	advcl	_	_
+2	las	el	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	instrucciones	instrucción	NOUN	NCFP000	Gender=Fem|Number=Plur	1	obj	_	_
+4	de	de	ADP	SP	AdpType=Prep	6	case	_	_
+5	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	negrito	negrito	ADJ	AQ0MS0	Gender=Masc|Number=Sing	3	amod	_	_
+7	encendió	encender	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+8	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	candela	candela	NOUN	NCFS000	Gender=Fem|Number=Sing	7	obj	_	_
+10	y	y	CCONJ	CC	_	11	cc	_	_
+11	entrando	entrar	VERB	VMG0000	VerbForm=Ger	16	conj	_	_
+12	en	en	ADP	SP	AdpType=Prep	14	case	_	_
+13	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	cueva	cueva	NOUN	NCFS000	Gender=Fem|Number=Sing	11	obl	_	_
+15	se	se	PRON	P00CN000	_	16	obj	_	_
+16	puso	poner	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	conj	_	_
+17	en	en	ADP	SP	AdpType=Prep	18	case	_	_
+18	marcha	marcha	NOUN	NCFS000	Gender=Fem|Number=Sing	16	compound	_	_
+19	.	.	PUNCT	Fp	_	7	punct	_	_
+
+# sent_id = 62
+# sent_csv = Reconocí al barco desde lejos por su vela.
+# text = Reconocí a el barco desde lejos por su vela .
+1	Reconocí	reconocer	VERB	VMIS1S0	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+2	a	a	ADP	SP	AdpType=Prep	4	case	_	_
+3	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	barco	barco	NOUN	NCMS000	Gender=Masc|Number=Sing	1	obj	_	_
+5	desde	desde	ADP	SP	AdpType=Prep	6	case	_	_
+6	lejos	lejos	ADV	RG	_	1	advmod	_	_
+7	por	por	ADP	SP	AdpType=Prep	9	case	_	_
+8	su	su	DET	DP3CSN	Gender=Masc|Number=Sing|Person=3|Poss=Yes	9	det	_	_
+9	vela	vela	NOUN	NCFS000	Gender=Fem|Number=Sing	1	obl	_	_
+10	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 63
+# sent_csv = Reconocí al barco desde lejos por su paño.
+# text = Reconocí a el barco desde lejos por su paño .
+1	Reconocí	reconocer	VERB	VMIS1S0	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+2	a	a	ADP	SP	AdpType=Prep	4	case	_	_
+3	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	barco	barco	NOUN	NCMS000	Gender=Masc|Number=Sing	1	obj	_	_
+5	desde	desde	ADP	SP	AdpType=Prep	6	case	_	_
+6	lejos	lejos	ADV	RG	_	1	advmod	_	_
+7	por	por	ADP	SP	AdpType=Prep	9	case	_	_
+8	su	su	DET	DP3CSN	Gender=Masc|Number=Sing|Person=3|Poss=Yes	9	det	_	_
+9	paño	paño	NOUN	NCMS000	Gender=Masc|Number=Sing	1	obl	_	_
+10	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 64
+# sent_csv = Reconocí al barco desde lejos por su forma.
+# text = Reconocí a el barco desde lejos por su forma .
+1	Reconocí	reconocer	VERB	VMIS1S0	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+2	a	a	ADP	SP	AdpType=Prep	4	case	_	_
+3	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	barco	barco	NOUN	NCMS000	Gender=Masc|Number=Sing	1	obj	_	_
+5	desde	desde	ADP	SP	AdpType=Prep	6	case	_	_
+6	lejos	lejos	ADV	RG	_	1	advmod	_	_
+7	por	por	ADP	SP	AdpType=Prep	9	case	_	_
+8	su	su	DET	DP3CSN	Gender=Masc|Number=Sing|Person=3|Poss=Yes	9	det	_	_
+9	forma	forma	NOUN	NCFS000	Gender=Fem|Number=Sing	1	obl	_	_
+10	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 65
+# sent_csv = El fuerto viento provocó la rotura de las velas.
+# text = El fuerto viento provocó la rotura de las velas .
+1	El	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	fuerto	fuerto	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	viento	viento	NOUN	NCMS000	Gender=Masc|Number=Sing	2	appos	_	_
+4	provocó	provocar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+5	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	rotura	rotura	NOUN	NCFS000	Gender=Fem|Number=Sing	4	obj	_	_
+7	de	de	ADP	SP	AdpType=Prep	9	case	_	_
+8	las	el	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	velas	vela	NOUN	NCFP000	Gender=Fem|Number=Plur	6	nmod	_	_
+10	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 66
+# sent_csv = El velamen de la embarcación parecía tener muchos años.
+# text = El velamen de la embarcación parecía tener muchos años .
+1	El	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	velamen	velamen	NOUN	NCMS000	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	de	de	ADP	SP	AdpType=Prep	5	case	_	_
+4	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	embarcación	embarcación	NOUN	NCFS000	Gender=Fem|Number=Sing	2	nmod	_	_
+6	parecía	parecer	AUX	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	7	aux	_	_
+7	tener	tener	VERB	VMN0000	VerbForm=Inf	0	root	_	_
+8	muchos	mucho	DET	DI0MP0	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	años	año	NOUN	NCMP000	Gender=Masc|Number=Plur	7	obj	_	_
+10	.	.	PUNCT	Fp	_	7	punct	_	_
+
+# sent_id = 67
+# sent_csv = Un cálculo puede ser capaz de provocar un ataque doloroso.
+# text = Un cálculo puede ser capaz de provocar un ataque doloroso .
+1	Un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	cálculo	cálculo	NOUN	NCMS000	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	puede	poder	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	ser	ser	AUX	VSN0000	VerbForm=Inf	5	cop	_	_
+5	capaz	capaz	ADJ	AQ0CS0	Gender=Com|Number=Sing	3	xcomp	_	_
+6	de	de	ADP	SP	AdpType=Prep	7	mark	_	_
+7	provocar	provocar	VERB	VMN0000	VerbForm=Inf	5	acl	_	_
+8	un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ataque	ataque	NOUN	NCMS000	Gender=Masc|Number=Sing	7	obj	_	_
+10	doloroso	doloroso	ADJ	AQ0MS0	Gender=Masc|Number=Sing	9	amod	_	_
+11	.	.	PUNCT	Fp	_	3	punct	_	_
+
+# sent_id = 68
+# sent_csv = Una piedra biliar puede ser capaz de provocar un ataque doloroso.
+# text = Una piedra biliar puede ser capaz de provocar un ataque doloroso .
+1	Una	uno	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	piedra	piedra	NOUN	NCFS000	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	biliar	biliar	ADJ	AQ0CS0	Gender=Com|Number=Sing	2	amod	_	_
+4	puede	poder	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	ser	ser	AUX	VSN0000	VerbForm=Inf	6	cop	_	_
+6	capaz	capaz	ADJ	AQ0CS0	Gender=Com|Number=Sing	4	xcomp	_	_
+7	de	de	ADP	SP	AdpType=Prep	8	mark	_	_
+8	provocar	provocar	VERB	VMN0000	VerbForm=Inf	6	acl	_	_
+9	un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	ataque	ataque	NOUN	NCMS000	Gender=Masc|Number=Sing	8	obj	_	_
+11	doloroso	doloroso	ADJ	AQ0MS0	Gender=Masc|Number=Sing	10	amod	_	_
+12	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 69
+# sent_csv = Un lobo puede ser capaz de provocar un ataque doloroso.
+# text = Un lobo puede ser capaz de provocar un ataque doloroso .
+1	Un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	lobo	lobo	NOUN	NCMS000	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	puede	poder	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	ser	ser	AUX	VSN0000	VerbForm=Inf	5	cop	_	_
+5	capaz	capaz	ADJ	AQ0CS0	Gender=Com|Number=Sing	3	xcomp	_	_
+6	de	de	ADP	SP	AdpType=Prep	7	mark	_	_
+7	provocar	provocar	VERB	VMN0000	VerbForm=Inf	5	acl	_	_
+8	un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ataque	ataque	NOUN	NCMS000	Gender=Masc|Number=Sing	7	obj	_	_
+10	doloroso	doloroso	ADJ	AQ0MS0	Gender=Masc|Number=Sing	9	amod	_	_
+11	.	.	PUNCT	Fp	_	3	punct	_	_
+
+# sent_id = 70
+# sent_csv = Tras la irritación provocada por el cálculo, tiene lugar una contracción generalizada.
+# text = Tras la irritación provocada por el cálculo , tiene lugar una contracción generalizada .
+1	Tras	tras	ADP	SP	AdpType=Prep	3	case	_	_
+2	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	irritación	irritación	NOUN	NCFS000	Gender=Fem|Number=Sing	4	obl	_	_
+4	provocada	provocar	VERB	VMP00SF	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+5	por	por	ADP	SP	AdpType=Prep	7	case	_	_
+6	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	cálculo	cálculo	NOUN	NCMS000	Gender=Masc|Number=Sing	4	obj	_	_
+8	,	,	PUNCT	Fc	_	9	punct	_	_
+9	tiene	tener	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	advcl	_	_
+10	lugar	lugar	NOUN	NCMS000	Gender=Masc|Number=Sing	9	compound	_	_
+11	una	uno	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	contracción	contracción	NOUN	NCFS000	Gender=Fem|Number=Sing	9	obj	_	_
+13	generalizada	generalizar	VERB	VMP00SF	Gender=Fem|Number=Sing|VerbForm=Part	9	acl	_	_
+14	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 71
+# sent_csv = La piedra en la vesícula le producía mucho malestar.
+# text = La piedra en la vesícula le producía mucho malestar .
+1	La	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	piedra	piedra	NOUN	NCFS000	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	en	en	ADP	SP	AdpType=Prep	5	case	_	_
+4	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	vesícula	vesícula	NOUN	NCFS000	Gender=Fem|Number=Sing	2	nmod	_	_
+6	le	le	PRON	PP3CSD00	Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	producía	producir	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	0	root	_	_
+8	mucho	mucho	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	malestar	malestar	NOUN	NCMS000	Gender=Masc|Number=Sing	7	obj	_	_
+10	.	.	PUNCT	Fp	_	7	punct	_	_
+
+# sent_id = 72
+# sent_csv = Normalmente, se desarrolla el problema mediante un cálculo matemático.
+# text = Normalmente , se desarrolla el problema mediante un cálculo matemático .
+1	Normalmente	normalmente	ADV	RG	_	4	advmod	_	_
+2	,	,	PUNCT	Fc	_	1	punct	_	_
+3	se	se	PRON	P00CN000	_	4	obj	_	_
+4	desarrolla	desarrollar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	problema	problema	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nsubj	_	_
+7	mediante	mediante	ADP	SP	AdpType=Prep	9	case	_	_
+8	un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	cálculo	cálculo	NOUN	NCMS000	Gender=Masc|Number=Sing	4	obl	_	_
+10	matemático	matemático	ADJ	AQ0MS0	Gender=Masc|Number=Sing	9	amod	_	_
+11	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 73
+# sent_csv = Normalmente, se desarrolla el problema mediante una operación matemática.
+# text = Normalmente , se desarrolla el problema mediante una operación matemática .
+1	Normalmente	normalmente	ADV	RG	_	4	advmod	_	_
+2	,	,	PUNCT	Fc	_	1	punct	_	_
+3	se	se	PRON	P00CN000	_	4	obj	_	_
+4	desarrolla	desarrollar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	problema	problema	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nsubj	_	_
+7	mediante	mediante	ADP	SP	AdpType=Prep	9	case	_	_
+8	una	uno	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	operación	operación	NOUN	NCFS000	Gender=Fem|Number=Sing	4	obl	_	_
+10	matemática	matemático	ADJ	AQ0FS0	Gender=Fem|Number=Sing	9	amod	_	_
+11	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 74
+# sent_csv = Normalmente, se desarrolla el problema mediante un profesor matemático.
+# text = Normalmente , se desarrolla el problema mediante un profesor matemático .
+1	Normalmente	normalmente	ADV	RG	_	4	advmod	_	_
+2	,	,	PUNCT	Fc	_	1	punct	_	_
+3	se	se	PRON	P00CN000	_	4	obj	_	_
+4	desarrolla	desarrollar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	problema	problema	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nsubj	_	_
+7	mediante	mediante	ADP	SP	AdpType=Prep	9	case	_	_
+8	un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	profesor	profesor	NOUN	NCMS000	Gender=Masc|Number=Sing	4	obl	_	_
+10	matemático	matemático	ADJ	AQ0MS0	Gender=Masc|Number=Sing	9	amod	_	_
+11	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 75
+# sent_csv = Con estos métodos se consigue mayor amplitud en la validez del cálculo teórico.
+# text = Con estos métodos se consigue mayor amplitud en la validez de el cálculo teórico .
+1	Con	con	ADP	SP	AdpType=Prep	3	case	_	_
+2	estos	este	DET	DD0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	_
+3	métodos	método	NOUN	NCMP000	Gender=Masc|Number=Plur	5	obl	_	_
+4	se	se	PRON	P00CN000	_	5	obj	_	_
+5	consigue	conseguir	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+6	mayor	mayor	ADJ	AQ0CS0	Gender=Com|Number=Sing	7	amod	_	_
+7	amplitud	amplitud	NOUN	NCFS000	Gender=Fem|Number=Sing	5	obj	_	_
+8	en	en	ADP	SP	AdpType=Prep	10	case	_	_
+9	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	validez	validez	NOUN	NCFS000	Gender=Fem|Number=Sing	7	nmod	_	_
+11	de	de	ADP	SP	AdpType=Prep	13	case	_	_
+12	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	cálculo	cálculo	NOUN	NCMS000	Gender=Masc|Number=Sing	10	nmod	_	_
+14	teórico	teórico	ADJ	AQ0MS0	Gender=Masc|Number=Sing	13	amod	_	_
+15	.	.	PUNCT	Fp	_	5	punct	_	_
+
+# sent_id = 76
+# sent_csv = No consiguió realizar el cómputo a tiempo.
+# text = No consiguió realizar el cómputo a tiempo .
+1	No	no	ADV	RN	Polarity=Neg	2	advmod	_	_
+2	consiguió	conseguir	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	realizar	realizar	VERB	VMN0000	VerbForm=Inf	2	xcomp	_	_
+4	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	cómputo	cómputo	NOUN	NCMS000	Gender=Masc|Number=Sing	3	obj	_	_
+6	a	a	ADP	SP	AdpType=Prep	7	case	_	_
+7	tiempo	tiempo	NOUN	NCMS000	Gender=Masc|Number=Sing	3	obl	_	_
+8	.	.	PUNCT	Fp	_	2	punct	_	_
+
+# sent_id = 77
+# sent_csv = Pensaba que era más corto que la manga de un chaleco.
+# text = Pensaba que era más corto que la manga de un chaleco .
+1	Pensaba	pensar	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	0	root	_	_
+2	que	que	SCONJ	CS	_	5	mark	_	_
+3	era	ser	AUX	VSII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	5	cop	_	_
+4	más	más	ADV	RG	_	5	advmod	_	_
+5	corto	corto	ADJ	AQ0MS0	Gender=Masc|Number=Sing	1	ccomp	_	_
+6	que	que	SCONJ	CS	_	8	mark	_	_
+7	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	manga	manga	NOUN	NCFS000	Gender=Fem|Number=Sing	5	obl	_	_
+9	de	de	ADP	SP	AdpType=Prep	11	case	_	_
+10	un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	chaleco	chaleco	NOUN	NCMS000	Gender=Masc|Number=Sing	8	nmod	_	_
+12	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 78
+# sent_csv = Se acercó a su hija y le tiró de la manga para que no me rozara.
+# text = Se acercó a su hija y le tiró de la manga para que no me rozara .
+1	Se	se	PRON	P00CN000	_	2	obj	_	_
+2	acercó	acercar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	a	a	ADP	SP	AdpType=Prep	5	case	_	_
+4	su	su	DET	DP3CSN	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	det	_	_
+5	hija	hijo	NOUN	NCFS000	Gender=Fem|Number=Sing	2	obl	_	_
+6	y	y	CCONJ	CC	_	8	cc	_	_
+7	le	le	PRON	PP3CSD00	Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	tiró	tirar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	_
+9	de	de	ADP	SP	AdpType=Prep	11	case	_	_
+10	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	manga	manga	NOUN	NCFS000	Gender=Fem|Number=Sing	8	obj	_	_
+12	para	para	ADP	SP	AdpType=Prep	16	mark	_	_
+13	que	que	SCONJ	CS	_	16	mark	_	_
+14	no	no	ADV	RN	Polarity=Neg	16	advmod	_	_
+15	me	me	PRON	PP1CS000	Gender=Com|Number=Sing|Person=1|PronType=Prs	16	obj	_	_
+16	rozara	rozar	VERB	VMSI3S0	Mood=Sub|Number=Sing|Person=3|Tense=Imp	8	advcl	_	_
+17	.	.	PUNCT	Fp	_	2	punct	_	_
+
+# sent_id = 79
+# sent_csv = Pensaba que era más corto que la cremallera de un chaleco.
+# text = Pensaba que era más corto que la cremallera de un chaleco .
+1	Pensaba	pensar	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	0	root	_	_
+2	que	que	SCONJ	CS	_	5	mark	_	_
+3	era	ser	AUX	VSII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	5	cop	_	_
+4	más	más	ADV	RG	_	5	advmod	_	_
+5	corto	corto	ADJ	AQ0MS0	Gender=Masc|Number=Sing	1	ccomp	_	_
+6	que	que	SCONJ	CS	_	8	mark	_	_
+7	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	cremallera	cremallera	NOUN	NCFS000	Gender=Fem|Number=Sing	5	obl	_	_
+9	de	de	ADP	SP	AdpType=Prep	11	case	_	_
+10	un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	chaleco	chaleco	NOUN	NCMS000	Gender=Masc|Number=Sing	8	nmod	_	_
+12	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 80
+# sent_csv = Tiene 5,60 metros de eslora, 1,50 de manga y 150 kilos de peso.
+# text = Tiene 5,60 metros de eslora , 1,50 de manga y 150 kilos de peso .
+1	Tiene	tener	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	5,60	5.6	NUM	Z	NumType=Card	3	nummod	_	_
+3	metros	metro	NOUN	NCMP000	Gender=Masc|Number=Plur	1	obj	_	_
+4	de	de	ADP	SP	AdpType=Prep	5	case	_	_
+5	eslora	eslora	NOUN	NCFS000	Gender=Fem|Number=Sing	3	nmod	_	_
+6	,	,	PUNCT	Fc	_	7	punct	_	_
+7	1,50	1.5	NUM	Z	NumType=Card	3	compound	_	_
+8	de	de	ADP	SP	AdpType=Prep	9	case	_	_
+9	manga	manga	NOUN	NCFS000	Gender=Fem|Number=Sing	3	nmod	_	_
+10	y	y	CCONJ	CC	_	12	cc	_	_
+11	150	150	NUM	Z	NumType=Card	12	nummod	_	_
+12	kilos	kilo	NOUN	NCMP000	Gender=Masc|Number=Plur	3	conj	_	_
+13	de	de	ADP	SP	AdpType=Prep	14	case	_	_
+14	peso	peso	NOUN	NCMS000	Gender=Masc|Number=Sing	12	nmod	_	_
+15	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 81
+# sent_csv = Tiene 5,60 metros de eslora, 1,50 de ancho y 150 kilos de peso.
+# text = Tiene 5,60 metros de eslora , 1,50 de ancho y 150 kilos de peso .
+1	Tiene	tener	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	5,60	5.6	NUM	Z	NumType=Card	3	nummod	_	_
+3	metros	metro	NOUN	NCMP000	Gender=Masc|Number=Plur	1	obj	_	_
+4	de	de	ADP	SP	AdpType=Prep	5	case	_	_
+5	eslora	eslora	NOUN	NCFS000	Gender=Fem|Number=Sing	3	nmod	_	_
+6	,	,	PUNCT	Fc	_	7	punct	_	_
+7	1,50	1.5	NUM	Z	NumType=Card	3	compound	_	_
+8	de	de	ADP	SP	AdpType=Prep	9	case	_	_
+9	ancho	ancho	NOUN	NCMS000	Gender=Masc|Number=Sing	3	nmod	_	_
+10	y	y	CCONJ	CC	_	12	cc	_	_
+11	150	150	NUM	Z	NumType=Card	12	nummod	_	_
+12	kilos	kilo	NOUN	NCMP000	Gender=Masc|Number=Plur	3	conj	_	_
+13	de	de	ADP	SP	AdpType=Prep	14	case	_	_
+14	peso	peso	NOUN	NCMS000	Gender=Masc|Number=Sing	12	nmod	_	_
+15	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 82
+# sent_csv = Tiene 5,60 metros de eslora, 1,50 de altura y 150 kilos de peso.
+# text = Tiene 5,60 metros de eslora , 1,50 de altura y 150 kilos de peso .
+1	Tiene	tener	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	5,60	5.6	NUM	Z	NumType=Card	3	nummod	_	_
+3	metros	metro	NOUN	NCMP000	Gender=Masc|Number=Plur	1	obj	_	_
+4	de	de	ADP	SP	AdpType=Prep	5	case	_	_
+5	eslora	eslora	NOUN	NCFS000	Gender=Fem|Number=Sing	3	nmod	_	_
+6	,	,	PUNCT	Fc	_	7	punct	_	_
+7	1,50	1.5	NUM	Z	NumType=Card	3	compound	_	_
+8	de	de	ADP	SP	AdpType=Prep	9	case	_	_
+9	altura	altura	NOUN	NCFS000	Gender=Fem|Number=Sing	3	nmod	_	_
+10	y	y	CCONJ	CC	_	12	cc	_	_
+11	150	150	NUM	Z	NumType=Card	12	nummod	_	_
+12	kilos	kilo	NOUN	NCMP000	Gender=Masc|Number=Plur	3	conj	_	_
+13	de	de	ADP	SP	AdpType=Prep	14	case	_	_
+14	peso	peso	NOUN	NCMS000	Gender=Masc|Number=Sing	12	nmod	_	_
+15	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 83
+# sent_csv = Tienen una eslora de 119 metros, una manga de 12,4 y un calado de 5,4.
+# text = Tienen una eslora de 119 metros , una manga de 12,4 y un calado de 5,4 .
+1	Tienen	tener	VERB	VMIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+2	una	uno	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	eslora	eslora	NOUN	NCFS000	Gender=Fem|Number=Sing	1	obj	_	_
+4	de	de	ADP	SP	AdpType=Prep	6	case	_	_
+5	119	119	NUM	Z	NumType=Card	6	nummod	_	_
+6	metros	metro	NOUN	NCMP000	Gender=Masc|Number=Plur	3	nmod	_	_
+7	,	,	PUNCT	Fc	_	1	punct	_	_
+8	una	uno	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	manga	manga	NOUN	NCFS000	Gender=Fem|Number=Sing	1	obj	_	_
+10	de	de	ADP	SP	AdpType=Prep	11	case	_	_
+11	12,4	12.4	NUM	Z	NumType=Card	9	nummod	_	_
+12	y	y	CCONJ	CC	_	14	cc	_	_
+13	un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	calado	calado	NOUN	NCMS000	Gender=Masc|Number=Sing	9	conj	_	_
+15	de	de	ADP	SP	AdpType=Prep	16	case	_	_
+16	5,4	5.4	NUM	Z	NumType=Card	14	nummod	_	_
+17	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 84
+# sent_csv = El galeón tenía unos 6 metros de ancho, aproximadamente.
+# text = El galeón tenía unos 6 metros de ancho , aproximadamente .
+1	El	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	galeón	galeón	NOUN	NCMS000	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	tenía	tener	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	0	root	_	_
+4	unos	uno	DET	DI0MP0	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	6	6	NUM	Z	NumType=Card	6	nummod	_	_
+6	metros	metro	NOUN	NCMP000	Gender=Masc|Number=Plur	3	xcomp	_	_
+7	de	de	ADP	SP	AdpType=Prep	8	case	_	_
+8	ancho	ancho	NOUN	NCMS000	Gender=Masc|Number=Sing	6	nmod	_	_
+9	,	,	PUNCT	Fc	_	10	punct	_	_
+10	aproximadamente	aproximadamente	ADV	RG	_	3	advmod	_	_
+11	.	.	PUNCT	Fp	_	3	punct	_	_
+
+# sent_id = 85
+# sent_csv = La historia del manga en España se remonta a mediados de los años 70, cuando empezaron a aparecer las primeras viñetas niponas.
+# text = La historia de el manga en España se remonta a mediados de los años 70 , cuando empezaron a aparecer las primeras viñetas niponas .
+1	La	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	historia	historia	NOUN	NCFS000	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	de	de	ADP	SP	AdpType=Prep	5	case	_	_
+4	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	manga	manga	NOUN	NCFS000	Gender=Fem|Number=Sing	2	nmod	_	_
+6	en	en	ADP	SP	AdpType=Prep	7	case	_	_
+7	España	españa	PROPN	NP00G00	_	2	nmod	_	_
+8	se	se	PRON	P00CN000	_	9	obj	_	_
+9	remonta	remontar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+10	a	a	ADP	SP	AdpType=Prep	11	mark	_	_
+11	mediados	mediar	VERB	VMP00PM	Gender=Masc|Number=Plur|VerbForm=Part	9	advcl	_	_
+12	de	de	ADP	SP	AdpType=Prep	14	case	_	_
+13	los	el	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	años	año	NOUN	NCMP000	Gender=Masc|Number=Plur	11	obl	_	_
+15	70	70	NUM	Z	NumType=Card	14	appos	_	_
+16	,	,	PUNCT	Fc	_	9	punct	_	_
+17	cuando	cuando	SCONJ	CS	_	18	mark	_	_
+18	empezaron	empezar	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	9	advcl	_	_
+19	a	a	ADP	SP	AdpType=Prep	20	mark	_	_
+20	aparecer	aparecer	VERB	VMN0000	VerbForm=Inf	18	xcomp	_	_
+21	las	el	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+22	primeras	1	NUM	AO0FP00	NumType=Ord	23	nummod	_	_
+23	viñetas	viñeta	NOUN	NCFP000	Gender=Fem|Number=Plur	18	obj	_	_
+24	niponas	nipón	ADJ	AQ0FP0	Gender=Fem|Number=Plur	23	amod	_	_
+25	.	.	PUNCT	Fp	_	9	punct	_	_
+
+# sent_id = 86
+# sent_csv = Le gusta mucho leer manga actual.
+# text = Le gusta mucho leer manga actual .
+1	Le	le	PRON	PP3CSD00	Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	mucho	mucho	ADV	RG	_	2	advmod	_	_
+4	leer	leer	VERB	VMN0000	VerbForm=Inf	2	csubj	_	_
+5	manga	manga	NOUN	NCFS000	Gender=Fem|Number=Sing	4	obj	_	_
+6	actual	actual	ADJ	AQ0CS0	Gender=Com|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	Fp	_	2	punct	_	_
+
+# sent_id = 87
+# sent_csv = La historia del rock en España se remonta a mediados de los años 70, cuando empezaron a aparecer las primeras viñetas niponas.
+# text = La historia de el rock en España se remonta a mediados de los años 70 , cuando empezaron a aparecer las primeras viñetas niponas .
+1	La	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	historia	historia	NOUN	NCFS000	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	de	de	ADP	SP	AdpType=Prep	5	case	_	_
+4	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	rock	rock	NOUN	NCMS000	Gender=Masc|Number=Sing	2	nmod	_	_
+6	en	en	ADP	SP	AdpType=Prep	7	case	_	_
+7	España	españa	PROPN	NP00G00	_	2	nmod	_	_
+8	se	se	PRON	P00CN000	_	9	obj	_	_
+9	remonta	remontar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+10	a	a	ADP	SP	AdpType=Prep	11	mark	_	_
+11	mediados	mediar	VERB	VMP00PM	Gender=Masc|Number=Plur|VerbForm=Part	9	advcl	_	_
+12	de	de	ADP	SP	AdpType=Prep	14	case	_	_
+13	los	el	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	años	año	NOUN	NCMP000	Gender=Masc|Number=Plur	11	obl	_	_
+15	70	70	NUM	Z	NumType=Card	14	appos	_	_
+16	,	,	PUNCT	Fc	_	9	punct	_	_
+17	cuando	cuando	SCONJ	CS	_	18	mark	_	_
+18	empezaron	empezar	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	9	advcl	_	_
+19	a	a	ADP	SP	AdpType=Prep	20	mark	_	_
+20	aparecer	aparecer	VERB	VMN0000	VerbForm=Inf	18	xcomp	_	_
+21	las	el	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+22	primeras	1	NUM	AO0FP00	NumType=Ord	23	nummod	_	_
+23	viñetas	viñeta	NOUN	NCFP000	Gender=Fem|Number=Plur	18	obj	_	_
+24	niponas	nipón	ADJ	AQ0FP0	Gender=Fem|Number=Plur	23	amod	_	_
+25	.	.	PUNCT	Fp	_	9	punct	_	_
+
+# sent_id = 88
+# sent_csv = La banda ha sido desarticulada cuando intentaba atracar una joyería.
+# text = La banda ha sido desarticulada cuando intentaba atracar una joyería .
+1	La	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	banda	banda	NOUN	NCFS000	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	aux	_	_
+4	sido	ser	AUX	VSP00SM	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	desarticulada	desarticular	VERB	VMP00SF	Gender=Fem|Number=Sing|VerbForm=Part	4	ccomp	_	_
+6	cuando	cuando	SCONJ	CS	_	7	mark	_	_
+7	intentaba	intentar	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	4	advcl	_	_
+8	atracar	atracar	VERB	VMN0000	VerbForm=Inf	7	xcomp	_	_
+9	una	uno	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	joyería	joyería	NOUN	NCFS000	Gender=Fem|Number=Sing	8	obj	_	_
+11	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 89
+# sent_csv = La banda ha sido desarticulada cuando intentaba asaltar una joyería.
+# text = La banda ha sido desarticulada cuando intentaba asaltar una joyería .
+1	La	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	banda	banda	NOUN	NCFS000	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	aux	_	_
+4	sido	ser	AUX	VSP00SM	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	desarticulada	desarticular	VERB	VMP00SF	Gender=Fem|Number=Sing|VerbForm=Part	4	ccomp	_	_
+6	cuando	cuando	SCONJ	CS	_	7	mark	_	_
+7	intentaba	intentar	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	4	advcl	_	_
+8	asaltar	asaltar	VERB	VMN0000	VerbForm=Inf	7	xcomp	_	_
+9	una	uno	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	joyería	joyería	NOUN	NCFS000	Gender=Fem|Number=Sing	8	obj	_	_
+11	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 90
+# sent_csv = La banda ha sido desarticulada cuando intentaba pintar una joyería.
+# text = La banda ha sido desarticulada cuando intentaba pintar una joyería .
+1	La	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	banda	banda	NOUN	NCFS000	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	aux	_	_
+4	sido	ser	AUX	VSP00SM	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	desarticulada	desarticular	VERB	VMP00SF	Gender=Fem|Number=Sing|VerbForm=Part	4	ccomp	_	_
+6	cuando	cuando	SCONJ	CS	_	7	mark	_	_
+7	intentaba	intentar	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	4	advcl	_	_
+8	pintar	pintar	VERB	VMN0000	VerbForm=Inf	7	xcomp	_	_
+9	una	uno	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	joyería	joyería	NOUN	NCFS000	Gender=Fem|Number=Sing	8	obj	_	_
+11	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 91
+# sent_csv = Dos anarquistas condenador por atracar un banco.
+# text = Dos anarquistas condenador por atracar un banco .
+1	Dos	2	NUM	Z	NumType=Card	2	nummod	_	_
+2	anarquistas	anarquista	NOUN	NCCP000	Gender=Com|Number=Plur	0	root	_	_
+3	condenador	condenador	ADJ	AQ0MS0	Gender=Masc|Number=Sing	2	amod	_	_
+4	por	por	ADP	SP	AdpType=Prep	5	mark	_	_
+5	atracar	atracar	VERB	VMN0000	VerbForm=Inf	2	acl	_	_
+6	un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	banco	banco	NOUN	NCMS000	Gender=Masc|Number=Sing	5	obj	_	_
+8	.	.	PUNCT	Fp	_	2	punct	_	_
+
+# sent_id = 92
+# sent_csv = De ser yo un cosaco me limitaría a asaltar aquellos convoyes cuyos carros no pudiesen ser bien defendidos.
+# text = De ser yo un cosaco me limitaría a asaltar aquellos convoyes cuyos carros no pudiesen ser bien defendidos .
+1	De	de	ADP	SP	AdpType=Prep	7	mark	_	_
+2	ser	ser	AUX	VSN0000	VerbForm=Inf	7	cop	_	_
+3	yo	yo	PRON	PP1CSN00	Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+4	un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	cosaco	cosaco	NOUN	NCMS000	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	me	me	PRON	PP1CS000	Gender=Com|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+7	limitaría	limitar	VERB	VMIC3S0	Mood=Cnd,Ind|Number=Sing|Person=3	0	root	_	_
+8	a	a	ADP	SP	AdpType=Prep	9	mark	_	_
+9	asaltar	asaltar	VERB	VMN0000	VerbForm=Inf	7	xcomp	_	_
+10	aquellos	aquel	DET	DD0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	11	det	_	_
+11	convoyes	convoy	NOUN	NCMP000	Gender=Masc|Number=Plur	9	obj	_	_
+12	cuyos	cuyo	PRON	PR0MP000	PronType=Rel	13	nmod	_	_
+13	carros	carro	NOUN	NCMP000	Gender=Masc|Number=Plur	15	nsubj	_	_
+14	no	no	ADV	RN	Polarity=Neg	15	advmod	_	_
+15	pudiesen	poder	VERB	VMSI3P0	Mood=Sub|Number=Plur|Person=3|Tense=Imp	11	acl	_	_
+16	ser	ser	AUX	VSN0000	VerbForm=Inf	18	aux	_	_
+17	bien	bien	ADV	RG	_	18	advmod	_	_
+18	defendidos	defender	VERB	VMP00PM	Gender=Masc|Number=Plur|VerbForm=Part	15	ccomp	_	_
+19	.	.	PUNCT	Fp	_	7	punct	_	_
+
+# sent_id = 93
+# sent_csv = Tiene poco calado para poder atracar en la playa del Lastre.
+# text = Tiene poco calado para poder atracar en la playa de el Lastre .
+1	Tiene	tener	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	poco	poco	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	calado	calado	NOUN	NCMS000	Gender=Masc|Number=Sing	1	obj	_	_
+4	para	para	ADP	SP	AdpType=Prep	5	mark	_	_
+5	poder	poder	VERB	VMN0000	VerbForm=Inf	1	advcl	_	_
+6	atracar	atracar	VERB	VMN0000	VerbForm=Inf	5	xcomp	_	_
+7	en	en	ADP	SP	AdpType=Prep	9	case	_	_
+8	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	playa	playa	NOUN	NCFS000	Gender=Fem|Number=Sing	6	obl	_	_
+10	de	de	ADP	SP	AdpType=Prep	12	case	_	_
+11	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Lastre	lastre	PROPN	NP00G00	_	9	nmod	_	_
+13	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 94
+# sent_csv = Uno de ellos afirma que el patrón no consiguió atracar el barco de aquella gente rica.
+# text = Uno de ellos afirma que el patrón no consiguió atracar el barco de aquella gente rica .
+1	Uno	uno	PRON	PI0MS000	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
+2	de	de	ADP	SP	AdpType=Prep	3	case	_	_
+3	ellos	ellos	PRON	PP3MP000	Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	nmod	_	_
+4	afirma	afirmar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	que	que	SCONJ	CS	_	9	mark	_	_
+6	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	patrón	patrón	NOUN	NCMS000	Gender=Masc|Number=Sing	9	nsubj	_	_
+8	no	no	ADV	RN	Polarity=Neg	9	advmod	_	_
+9	consiguió	conseguir	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	ccomp	_	_
+10	atracar	atracar	VERB	VMN0000	VerbForm=Inf	9	xcomp	_	_
+11	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	barco	barco	NOUN	NCMS000	Gender=Masc|Number=Sing	10	obj	_	_
+13	de	de	ADP	SP	AdpType=Prep	15	case	_	_
+14	aquella	aquel	DET	DD0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	15	det	_	_
+15	gente	gente	NOUN	NCFS000	Gender=Fem|Number=Sing	12	nmod	_	_
+16	rica	rico	ADJ	AQ0FS0	Gender=Fem|Number=Sing	15	amod	_	_
+17	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 95
+# sent_csv = Tiene poco calado para poder pescar en la playa del Lastre.
+# text = Tiene poco calado para poder pescar en la playa_de_el_Lastre .
+1	Tiene	tener	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	poco	poco	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	calado	calado	NOUN	NCMS000	Gender=Masc|Number=Sing	1	obj	_	_
+4	para	para	ADP	SP	AdpType=Prep	5	mark	_	_
+5	poder	poder	VERB	VMN0000	VerbForm=Inf	1	advcl	_	_
+6	pescar	pescar	VERB	VMN0000	VerbForm=Inf	5	xcomp	_	_
+7	en	en	ADP	SP	AdpType=Prep	9	case	_	_
+8	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	playa_de_el_Lastre	playa_de_el_lastre	PROPN	NP00G00	_	6	obl	_	_
+10	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 96
+# sent_csv = Creo que el libro que me pides está en esta pila de ahí.
+# text = Creo que el libro que me pides está en esta pila de ahí .
+1	Creo	creer	VERB	VMIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+2	que	que	SCONJ	CS	_	7	mark	_	_
+3	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	libro	libro	NOUN	NCMS000	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	7	nsubj	_	_
+6	me	me	PRON	PP1CS000	Gender=Com|Number=Sing|Person=1|PronType=Prs	7	obj	_	_
+7	pides	pedir	VERB	VMIP2S0	Mood=Ind|Number=Sing|Person=2|Tense=Pres	1	ccomp	_	_
+8	está	estar	AUX	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	cop	_	_
+9	en	en	ADP	SP	AdpType=Prep	11	case	_	_
+10	esta	este	DET	DD0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
+11	pila	pila	NOUN	NCFS000	Gender=Fem|Number=Sing	7	obl	_	_
+12	de	de	ADP	SP	AdpType=Prep	13	case	_	_
+13	ahí	ahí	ADV	RG	_	11	advmod	_	_
+14	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 97
+# sent_csv = Creo que el libro que me pides está en este montón de ahí.
+# text = Creo que el libro que me pides está en este montón de ahí .
+1	Creo	creer	VERB	VMIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+2	que	que	SCONJ	CS	_	7	mark	_	_
+3	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	libro	libro	NOUN	NCMS000	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	7	nsubj	_	_
+6	me	me	PRON	PP1CS000	Gender=Com|Number=Sing|Person=1|PronType=Prs	7	obj	_	_
+7	pides	pedir	VERB	VMIP2S0	Mood=Ind|Number=Sing|Person=2|Tense=Pres	1	ccomp	_	_
+8	está	estar	AUX	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	cop	_	_
+9	en	en	ADP	SP	AdpType=Prep	11	case	_	_
+10	este	este	DET	DD0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	montón	montón	NOUN	NCMS000	Gender=Masc|Number=Sing	7	obl	_	_
+12	de	de	ADP	SP	AdpType=Prep	13	case	_	_
+13	ahí	ahí	ADV	RG	_	11	advmod	_	_
+14	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 98
+# sent_csv = Creo que el libro que me pides está en esta estantería de ahí.
+# text = Creo que el libro que me pides está en esta estantería de ahí .
+1	Creo	creer	VERB	VMIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+2	que	que	SCONJ	CS	_	7	mark	_	_
+3	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	libro	libro	NOUN	NCMS000	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	7	nsubj	_	_
+6	me	me	PRON	PP1CS000	Gender=Com|Number=Sing|Person=1|PronType=Prs	7	obj	_	_
+7	pides	pedir	VERB	VMIP2S0	Mood=Ind|Number=Sing|Person=2|Tense=Pres	1	ccomp	_	_
+8	está	estar	AUX	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	cop	_	_
+9	en	en	ADP	SP	AdpType=Prep	11	case	_	_
+10	esta	este	DET	DD0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
+11	estantería	estantería	NOUN	NCFS000	Gender=Fem|Number=Sing	7	obl	_	_
+12	de	de	ADP	SP	AdpType=Prep	13	case	_	_
+13	ahí	ahí	ADV	RG	_	11	advmod	_	_
+14	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 99
+# sent_csv = Me acosté y pasé la tarde y la noche arrebujado bajo una pila de mantas.
+# text = Me acosté y pasé la tarde y la noche arrebujado bajo una pila de mantas .
+1	Me	me	PRON	PP1CS000	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	acosté	acostar	VERB	VMIS1S0	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+3	y	y	CCONJ	CC	_	4	cc	_	_
+4	pasé	pasar	VERB	VMIS1S0	Mood=Ind|Number=Sing|Person=1|Tense=Past	2	conj	_	_
+5	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	tarde	tarde	NOUN	NCFS000	Gender=Fem|Number=Sing	4	obl	_	_
+7	y	y	CCONJ	CC	_	9	cc	_	_
+8	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	noche	noche	NOUN	NCFS000	Gender=Fem|Number=Sing	6	conj	_	_
+10	arrebujado	arrebujar	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	2	conj	_	_
+11	bajo	bajo	ADP	SP	AdpType=Prep	13	case	_	_
+12	una	uno	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	pila	pila	NOUN	NCFS000	Gender=Fem|Number=Sing	10	obl	_	_
+14	de	de	ADP	SP	AdpType=Prep	15	case	_	_
+15	mantas	manta	NOUN	NCFP000	Gender=Fem|Number=Plur	13	nmod	_	_
+16	.	.	PUNCT	Fp	_	2	punct	_	_
+
+# sent_id = 100
+# sent_csv = Ubicó el segundo montón y acomodó las copias al lado.
+# text = Ubicó el segundo montón y acomodó las copias a el lado .
+1	Ubicó	ubicar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+2	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	segundo	2	NUM	AO0MS00	NumType=Ord	4	nummod	_	_
+4	montón	montón	NOUN	NCMS000	Gender=Masc|Number=Sing	1	obj	_	_
+5	y	y	CCONJ	CC	_	6	cc	_	_
+6	acomodó	acomodar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	conj	_	_
+7	las	el	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	copias	copia	NOUN	NCFP000	Gender=Fem|Number=Plur	6	obj	_	_
+9	a	a	ADP	SP	AdpType=Prep	11	case	_	_
+10	el	el	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	lado	lado	NOUN	NCMS000	Gender=Masc|Number=Sing	6	obl	_	_
+12	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 101
+# sent_csv = Este mando no tiene pila, por eso no funciona.
+# text = Este mando no tiene pila , por eso no funciona .
+1	Este	este	DET	DD0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	mando	mando	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	no	no	ADV	RN	Polarity=Neg	4	advmod	_	_
+4	tiene	tener	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	pila	pila	NOUN	NCFS000	Gender=Fem|Number=Sing	4	obj	_	_
+6	,	,	PUNCT	Fc	_	10	punct	_	_
+7	por	por	ADP	SP	AdpType=Prep	8	case	_	_
+8	eso	ese	PRON	PD00S000	PronType=Dem	10	obl	_	_
+9	no	no	ADV	RN	Polarity=Neg	10	advmod	_	_
+10	funciona	funcionar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	acl	_	_
+11	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 102
+# sent_csv = Este mando no tiene batería, por eso no funciona.
+# text = Este mando no tiene batería , por eso no funciona .
+1	Este	este	DET	DD0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	mando	mando	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	no	no	ADV	RN	Polarity=Neg	4	advmod	_	_
+4	tiene	tener	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	batería	batería	NOUN	NCCS000	Gender=Com|Number=Sing	4	obj	_	_
+6	,	,	PUNCT	Fc	_	10	punct	_	_
+7	por	por	ADP	SP	AdpType=Prep	8	case	_	_
+8	eso	ese	PRON	PD00S000	PronType=Dem	10	obl	_	_
+9	no	no	ADV	RN	Polarity=Neg	10	advmod	_	_
+10	funciona	funcionar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	acl	_	_
+11	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 103
+# sent_csv = Este mando no tiene botones, por eso no funciona.
+# text = Este mando no tiene botones , por eso no funciona .
+1	Este	este	DET	DD0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	mando	mando	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	no	no	ADV	RN	Polarity=Neg	4	advmod	_	_
+4	tiene	tener	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	botones	botón	NOUN	NCMP000	Gender=Masc|Number=Plur	4	obj	_	_
+6	,	,	PUNCT	Fc	_	10	punct	_	_
+7	por	por	ADP	SP	AdpType=Prep	8	case	_	_
+8	eso	ese	PRON	PD00S000	PronType=Dem	10	obl	_	_
+9	no	no	ADV	RN	Polarity=Neg	10	advmod	_	_
+10	funciona	funcionar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	acl	_	_
+11	.	.	PUNCT	Fp	_	4	punct	_	_
+
+# sent_id = 104
+# sent_csv = Notaba que algo se iba desgastando dentro, como la pila de una linterna.
+# text = Notaba que algo se iba desgastando dentro , como la pila de una linterna .
+1	Notaba	notar	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	0	root	_	_
+2	que	que	SCONJ	CS	_	5	mark	_	_
+3	algo	algo	PRON	PI0CS000	Gender=Neut|Number=Sing|PronType=Ind	5	nsubj	_	_
+4	se	se	PRON	P00CN000	_	5	obj	_	_
+5	iba	ir	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	1	ccomp	_	_
+6	desgastando	desgastar	VERB	VMG0000	VerbForm=Ger	5	advcl	_	_
+7	dentro	dentro	ADV	RG	_	6	advmod	_	_
+8	,	,	PUNCT	Fc	_	11	punct	_	_
+9	como	como	SCONJ	CS	_	11	mark	_	_
+10	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	pila	pila	NOUN	NCFS000	Gender=Fem|Number=Sing	6	obj	_	_
+12	de	de	ADP	SP	AdpType=Prep	14	case	_	_
+13	una	uno	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	linterna	linterna	NOUN	NCFS000	Gender=Fem|Number=Sing	11	nmod	_	_
+15	.	.	PUNCT	Fp	_	1	punct	_	_
+
+# sent_id = 105
+# sent_csv = Después las baterías se descargaron y dejó la radio sobre un estante.
+# text = Después las baterías se descargaron y dejó la radio sobre un estante .
+1	Después	después	ADV	RG	_	5	advmod	_	_
+2	las	el	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	baterías	batería	NOUN	NCCP000	Gender=Com|Number=Plur	5	nsubj	_	_
+4	se	se	PRON	P00CN000	_	5	obj	_	_
+5	descargaron	descargar	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+6	y	y	CCONJ	CC	_	7	cc	_	_
+7	dejó	dejar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	_
+8	la	el	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	radio	radio	NOUN	NCCS000	Gender=Com|Number=Sing	7	obj	_	_
+10	sobre	sobre	ADP	SP	AdpType=Prep	12	case	_	_
+11	un	uno	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	estante	estante	NOUN	NCMS000	Gender=Masc|Number=Sing	7	obl	_	_
+13	.	.	PUNCT	Fp	_	5	punct	_	_
+
