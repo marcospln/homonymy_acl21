@@ -1,5 +1,5 @@
 # Homonymy and synonymy in context
-This repository contains the datasets and code for the paper _Exploring the Representation of Word Meanings in Context: A Case Study on Homonymy and Synonymy_, presented at ACL-IJCNLP 2021.
+This repository contains the datasets and code for the paper [_Exploring the Representation of Word Meanings in Context: A Case Study on Homonymy and Synonymy_](https://aclanthology.org/2021.acl-long.281/), presented at ACL-IJCNLP 2021.
 
 ## Datasets
 This resource contains data in four language varieties: Galician (gl), Portuguese (pt), Spanish (es), and English (en).<sup>1</sup>
@@ -40,11 +40,17 @@ We release two BERT models: one with 6 Transformer layers (_small_) and one with
 BERT models can be downloaded from the following links: [_small_](https://huggingface.co/marcosgg/bert-small-gl-cased), and [_base_](https://huggingface.co/marcosgg/bert-base-gl-cased).
 
 ## Citation
-If you use the datasets, code, or models referred in this repository, please cite the following paper:
+If you use the datasets, code, or models referred in this repository, please cite the following [paper](https://aclanthology.org/2021.acl-long.281/):
 
 ```
-Garcia, Marcos. 2021.
-Exploring the Representation of Word Meanings in Context: A Case Study on Homonymy and Synonymy.
-In Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021).
-Association for Computational Linguistics.
+@inproceedings{garcia-2021-exploring,
+    title = "Exploring the Representation of Word Meanings in Context: {A} Case Study on Homonymy and Synonymy",
+    author = "Garcia, Marcos",
+    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
+    year = "2021",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.acl-long.281",
+    doi = "10.18653/v1/2021.acl-long.281",
+    pages = "3625--3640"
+}
 ```
