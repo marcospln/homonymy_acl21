@@ -1,5 +1,5 @@
 # Homonymy and synonymy in context
-This repository contains the datasets and code for the paper _Exploring the Representation of Word Meanings in Context: A Case Study on Homonymy and Synonymy_, accepted at ACL-IJCNLP 2021.
+This repository contains the datasets and code for the paper _Exploring the Representation of Word Meanings in Context: A Case Study on Homonymy and Synonymy_, presented at ACL-IJCNLP 2021.
 
 ## Datasets
 This resource contains data in four language varieties: Galician (gl), Portuguese (pt), Spanish (es), and English (en).<sup>1</sup>
