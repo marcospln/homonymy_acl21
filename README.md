@@ -1,5 +1,5 @@
 # Homonymy and synonymy in context
-This repository contains the datasets and code for the paper [_Exploring the Representation of Word Meanings in Context: A Case Study on Homonymy and Synonymy_](https://aclanthology.org/2021.acl-long.281/), presented at ACL-IJCNLP 2021.
+This repository contains the datasets and code for the paper [_Exploring the Representation of Word Meanings in Context: A Case Study on Homonymy and Synonymy_](https://arxiv.org/abs/2106.13553), presented at ACL-IJCNLP 2021.
 
 ## Datasets
 This resource contains data in four language varieties: Galician (gl), Portuguese (pt), Spanish (es), and English (en).<sup>1</sup>
@@ -40,7 +40,7 @@ We release two BERT models: one with 6 Transformer layers (_small_) and one with
 BERT models can be downloaded from the following links: [_small_](https://huggingface.co/marcosgg/bert-small-gl-cased), and [_base_](https://huggingface.co/marcosgg/bert-base-gl-cased).
 
 ## Citation
-If you use the datasets, code, or models referred in this repository, please cite the following [paper](https://aclanthology.org/2021.acl-long.281/):
+If you use the datasets, code, or models referred in this repository, please cite the following [paper](https://arxiv.org/abs/2106.13553):
 
 ```
 @inproceedings{garcia-2021-exploring,
