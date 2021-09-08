@@ -37,7 +37,7 @@ The _fastText_ model was trained for 15 iterations on a corpus with about 600M t
 ### BERT
 We release two BERT models: one with 6 Transformer layers (_small_) and one with 12 layers (_base_). Both models were trained with the [HuggingFace Transformers library](https://github.com/huggingface/transformers) on a single NVIDIA Titan XP GPU with 12GB with the following hyperparameters: block size of 128, learning rate of 0.0001, masked language modeling probability of 0.15, and 0.01 of weight decay. They have been trained only with the MLM objective.
 
-BERT models can be downloaded from the following links: [_small_](https://zenodo.org/record/4481575), and [_base_](https://zenodo.org/record/4481591).
+BERT models can be downloaded from the following links: [_small_](https://huggingface.co/marcosgg/bert-small-gl-cased), and [_base_](https://huggingface.co/marcosgg/bert-base-gl-cased).
 
 ## Citation
 If you use the datasets, code, or models referred in this repository, please cite the following paper:
